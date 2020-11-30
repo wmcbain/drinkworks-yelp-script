@@ -1,0 +1,1138 @@
+[
+  {
+    "datasetid": "us-zip-code-latitude-and-longitude",
+    "recordid": "9985351542b162346d0302d32220bd4b55de6638",
+    "fields": {
+      "city": "Saint Louis",
+      "zip": "63131",
+      "dst": 1,
+      "geopoint": [38.618582, -90.43643],
+      "longitude": -90.43643,
+      "state": "MO",
+      "latitude": 38.618582,
+      "timezone": -6
+    },
+    "geometry": { "type": "Point", "coordinates": [-90.43643, 38.618582] },
+    "record_timestamp": "2018-02-09T11:33:38.603-05:00"
+  },
+  {
+    "datasetid": "us-zip-code-latitude-and-longitude",
+    "recordid": "bc0fefc021062e9035e092ffcf590e57d5f4e98f",
+    "fields": {
+      "city": "Saint Louis",
+      "zip": "63179",
+      "dst": 1,
+      "geopoint": [38.6531, -90.243462],
+      "longitude": -90.243462,
+      "state": "MO",
+      "latitude": 38.6531,
+      "timezone": -6
+    },
+    "geometry": { "type": "Point", "coordinates": [-90.243462, 38.6531] },
+    "record_timestamp": "2018-02-09T11:33:38.603-05:00"
+  },
+  {
+    "datasetid": "us-zip-code-latitude-and-longitude",
+    "recordid": "991df61899f3b5e70c5abffae00db50089a10d5a",
+    "fields": {
+      "city": "Saint Louis",
+      "zip": "63111",
+      "dst": 1,
+      "geopoint": [38.559302, -90.25174],
+      "longitude": -90.25174,
+      "state": "MO",
+      "latitude": 38.559302,
+      "timezone": -6
+    },
+    "geometry": { "type": "Point", "coordinates": [-90.25174, 38.559302] },
+    "record_timestamp": "2018-02-09T11:33:38.603-05:00"
+  },
+  {
+    "datasetid": "us-zip-code-latitude-and-longitude",
+    "recordid": "f72576884703844cfaa913307b8afcfc2f3946a1",
+    "fields": {
+      "city": "Saint Louis",
+      "zip": "63103",
+      "dst": 1,
+      "geopoint": [38.631451, -90.21415],
+      "longitude": -90.21415,
+      "state": "MO",
+      "latitude": 38.631451,
+      "timezone": -6
+    },
+    "geometry": { "type": "Point", "coordinates": [-90.21415, 38.631451] },
+    "record_timestamp": "2018-02-09T11:33:38.603-05:00"
+  },
+  {
+    "datasetid": "us-zip-code-latitude-and-longitude",
+    "recordid": "9be22f5bc3eef94ec5380d9d25bf745d0a918525",
+    "fields": {
+      "city": "Saint Louis",
+      "zip": "63124",
+      "dst": 1,
+      "geopoint": [38.645802, -90.37687],
+      "longitude": -90.37687,
+      "state": "MO",
+      "latitude": 38.645802,
+      "timezone": -6
+    },
+    "geometry": { "type": "Point", "coordinates": [-90.37687, 38.645802] },
+    "record_timestamp": "2018-02-09T11:33:38.603-05:00"
+  },
+  {
+    "datasetid": "us-zip-code-latitude-and-longitude",
+    "recordid": "c6ee49393b9e98443c2be0e8a864ea34f8af9e0d",
+    "fields": {
+      "city": "Saint Louis",
+      "zip": "63133",
+      "dst": 1,
+      "geopoint": [38.679684, -90.30186],
+      "longitude": -90.30186,
+      "state": "MO",
+      "latitude": 38.679684,
+      "timezone": -6
+    },
+    "geometry": { "type": "Point", "coordinates": [-90.30186, 38.679684] },
+    "record_timestamp": "2018-02-09T11:33:38.603-05:00"
+  },
+  {
+    "datasetid": "us-zip-code-latitude-and-longitude",
+    "recordid": "8f60b8df94d1ea4aef2b38dcb16e36b2c520ee89",
+    "fields": {
+      "city": "Saint Louis",
+      "zip": "63180",
+      "dst": 1,
+      "geopoint": [38.6531, -90.243462],
+      "longitude": -90.243462,
+      "state": "MO",
+      "latitude": 38.6531,
+      "timezone": -6
+    },
+    "geometry": { "type": "Point", "coordinates": [-90.243462, 38.6531] },
+    "record_timestamp": "2018-02-09T11:33:38.603-05:00"
+  },
+  {
+    "datasetid": "us-zip-code-latitude-and-longitude",
+    "recordid": "1493d68d0ec0ebc0d2e8c13b8efa83525d252e3e",
+    "fields": {
+      "city": "Saint Louis",
+      "zip": "63197",
+      "dst": 1,
+      "geopoint": [38.6531, -90.243462],
+      "longitude": -90.243462,
+      "state": "MO",
+      "latitude": 38.6531,
+      "timezone": -6
+    },
+    "geometry": { "type": "Point", "coordinates": [-90.243462, 38.6531] },
+    "record_timestamp": "2018-02-09T11:33:38.603-05:00"
+  },
+  {
+    "datasetid": "us-zip-code-latitude-and-longitude",
+    "recordid": "bde8e2af3f41ac3bc191ca86acfe058923133485",
+    "fields": {
+      "city": "Saint Louis",
+      "zip": "63123",
+      "dst": 1,
+      "geopoint": [38.549452, -90.32525],
+      "longitude": -90.32525,
+      "state": "MO",
+      "latitude": 38.549452,
+      "timezone": -6
+    },
+    "geometry": { "type": "Point", "coordinates": [-90.32525, 38.549452] },
+    "record_timestamp": "2018-02-09T11:33:38.603-05:00"
+  },
+  {
+    "datasetid": "us-zip-code-latitude-and-longitude",
+    "recordid": "d832642a507c0a7692027eaaa5cf09ba1ca3fbdd",
+    "fields": {
+      "city": "Saint Louis",
+      "zip": "63178",
+      "dst": 1,
+      "geopoint": [38.6531, -90.243462],
+      "longitude": -90.243462,
+      "state": "MO",
+      "latitude": 38.6531,
+      "timezone": -6
+    },
+    "geometry": { "type": "Point", "coordinates": [-90.243462, 38.6531] },
+    "record_timestamp": "2018-02-09T11:33:38.603-05:00"
+  },
+  {
+    "datasetid": "us-zip-code-latitude-and-longitude",
+    "recordid": "03cc67804dad8a0c87ab337e4502befd97179781",
+    "fields": {
+      "city": "Saint Louis",
+      "zip": "63113",
+      "dst": 1,
+      "geopoint": [38.656701, -90.24397],
+      "longitude": -90.24397,
+      "state": "MO",
+      "latitude": 38.656701,
+      "timezone": -6
+    },
+    "geometry": { "type": "Point", "coordinates": [-90.24397, 38.656701] },
+    "record_timestamp": "2018-02-09T11:33:38.603-05:00"
+  },
+  {
+    "datasetid": "us-zip-code-latitude-and-longitude",
+    "recordid": "85aebb4e0e4da0b3190b0efe2e6d07acb3125943",
+    "fields": {
+      "city": "Saint Louis",
+      "zip": "63134",
+      "dst": 1,
+      "geopoint": [38.738217, -90.33904],
+      "longitude": -90.33904,
+      "state": "MO",
+      "latitude": 38.738217,
+      "timezone": -6
+    },
+    "geometry": { "type": "Point", "coordinates": [-90.33904, 38.738217] },
+    "record_timestamp": "2018-02-09T11:33:38.603-05:00"
+  },
+  {
+    "datasetid": "us-zip-code-latitude-and-longitude",
+    "recordid": "f7324514ab84e37b38dc56ceff6f2261fda48abe",
+    "fields": {
+      "city": "Saint Louis",
+      "zip": "63144",
+      "dst": 1,
+      "geopoint": [38.619152, -90.34964],
+      "longitude": -90.34964,
+      "state": "MO",
+      "latitude": 38.619152,
+      "timezone": -6
+    },
+    "geometry": { "type": "Point", "coordinates": [-90.34964, 38.619152] },
+    "record_timestamp": "2018-02-09T11:33:38.603-05:00"
+  },
+  {
+    "datasetid": "us-zip-code-latitude-and-longitude",
+    "recordid": "0b52f8d8b79667fc7bc8eb86a817fe4e9e63c835",
+    "fields": {
+      "city": "Saint Louis",
+      "zip": "63196",
+      "dst": 1,
+      "geopoint": [38.6531, -90.243462],
+      "longitude": -90.243462,
+      "state": "MO",
+      "latitude": 38.6531,
+      "timezone": -6
+    },
+    "geometry": { "type": "Point", "coordinates": [-90.243462, 38.6531] },
+    "record_timestamp": "2018-02-09T11:33:38.603-05:00"
+  },
+  {
+    "datasetid": "us-zip-code-latitude-and-longitude",
+    "recordid": "7ef4cd5f792cb82553ed57889eff22d9296355c9",
+    "fields": {
+      "city": "Saint Louis",
+      "zip": "63177",
+      "dst": 1,
+      "geopoint": [38.6531, -90.243462],
+      "longitude": -90.243462,
+      "state": "MO",
+      "latitude": 38.6531,
+      "timezone": -6
+    },
+    "geometry": { "type": "Point", "coordinates": [-90.243462, 38.6531] },
+    "record_timestamp": "2018-02-09T11:33:38.603-05:00"
+  },
+  {
+    "datasetid": "us-zip-code-latitude-and-longitude",
+    "recordid": "688e8abc851f4b0ffcaeeb765076484df001dadc",
+    "fields": {
+      "city": "Saint Louis",
+      "zip": "63157",
+      "dst": 1,
+      "geopoint": [38.6531, -90.243462],
+      "longitude": -90.243462,
+      "state": "MO",
+      "latitude": 38.6531,
+      "timezone": -6
+    },
+    "geometry": { "type": "Point", "coordinates": [-90.243462, 38.6531] },
+    "record_timestamp": "2018-02-09T11:33:38.603-05:00"
+  },
+  {
+    "datasetid": "us-zip-code-latitude-and-longitude",
+    "recordid": "46336be7a7bb7460ed02b044f6c994778f5f4bf7",
+    "fields": {
+      "city": "Saint Louis",
+      "zip": "63137",
+      "dst": 1,
+      "geopoint": [38.748183, -90.21864],
+      "longitude": -90.21864,
+      "state": "MO",
+      "latitude": 38.748183,
+      "timezone": -6
+    },
+    "geometry": { "type": "Point", "coordinates": [-90.21864, 38.748183] },
+    "record_timestamp": "2018-02-09T11:33:38.603-05:00"
+  },
+  {
+    "datasetid": "us-zip-code-latitude-and-longitude",
+    "recordid": "c1ed4a7519e71767c7bb72b588f39c4d9102172a",
+    "fields": {
+      "city": "Saint Louis",
+      "zip": "63119",
+      "dst": 1,
+      "geopoint": [38.590652, -90.35168],
+      "longitude": -90.35168,
+      "state": "MO",
+      "latitude": 38.590652,
+      "timezone": -6
+    },
+    "geometry": { "type": "Point", "coordinates": [-90.35168, 38.590652] },
+    "record_timestamp": "2018-02-09T11:33:38.603-05:00"
+  },
+  {
+    "datasetid": "us-zip-code-latitude-and-longitude",
+    "recordid": "6d0db10b7b61ecb70126c5ee98fd549a2cced6ee",
+    "fields": {
+      "city": "Saint Louis",
+      "zip": "63188",
+      "dst": 1,
+      "geopoint": [38.6531, -90.243462],
+      "longitude": -90.243462,
+      "state": "MO",
+      "latitude": 38.6531,
+      "timezone": -6
+    },
+    "geometry": { "type": "Point", "coordinates": [-90.243462, 38.6531] },
+    "record_timestamp": "2018-02-09T11:33:38.603-05:00"
+  },
+  {
+    "datasetid": "us-zip-code-latitude-and-longitude",
+    "recordid": "7e825854f92fe2a87d000d81a6f6f02020345fde",
+    "fields": {
+      "city": "Saint Louis",
+      "zip": "63101",
+      "dst": 1,
+      "geopoint": [38.631551, -90.193],
+      "longitude": -90.193,
+      "state": "MO",
+      "latitude": 38.631551,
+      "timezone": -6
+    },
+    "geometry": { "type": "Point", "coordinates": [-90.193, 38.631551] },
+    "record_timestamp": "2018-02-09T11:33:38.603-05:00"
+  },
+  {
+    "datasetid": "us-zip-code-latitude-and-longitude",
+    "recordid": "3f61ef4e2c5c9485c2d5fc46fc913b2706fab874",
+    "fields": {
+      "city": "Saint Louis",
+      "zip": "63102",
+      "dst": 1,
+      "geopoint": [38.6352, -90.18702],
+      "longitude": -90.18702,
+      "state": "MO",
+      "latitude": 38.6352,
+      "timezone": -6
+    },
+    "geometry": { "type": "Point", "coordinates": [-90.18702, 38.6352] },
+    "record_timestamp": "2018-02-09T11:33:38.603-05:00"
+  },
+  {
+    "datasetid": "us-zip-code-latitude-and-longitude",
+    "recordid": "53d9556e0ab16f1afc1230dd4d963b2dd6805901",
+    "fields": {
+      "city": "Saint Louis",
+      "zip": "63151",
+      "dst": 1,
+      "geopoint": [38.638318, -90.427118],
+      "longitude": -90.427118,
+      "state": "MO",
+      "latitude": 38.638318,
+      "timezone": -6
+    },
+    "geometry": { "type": "Point", "coordinates": [-90.427118, 38.638318] },
+    "record_timestamp": "2018-02-09T11:33:38.603-05:00"
+  },
+  {
+    "datasetid": "us-zip-code-latitude-and-longitude",
+    "recordid": "ba4d7ccc7ed56fc25032db5a8205bf6ec1f970e0",
+    "fields": {
+      "city": "Saint Louis",
+      "zip": "63182",
+      "dst": 1,
+      "geopoint": [38.6531, -90.243462],
+      "longitude": -90.243462,
+      "state": "MO",
+      "latitude": 38.6531,
+      "timezone": -6
+    },
+    "geometry": { "type": "Point", "coordinates": [-90.243462, 38.6531] },
+    "record_timestamp": "2018-02-09T11:33:38.603-05:00"
+  },
+  {
+    "datasetid": "us-zip-code-latitude-and-longitude",
+    "recordid": "c695a52247cbc523ba281dac325e2d0982f2bc91",
+    "fields": {
+      "city": "Saint Louis",
+      "zip": "63160",
+      "dst": 1,
+      "geopoint": [38.6531, -90.243462],
+      "longitude": -90.243462,
+      "state": "MO",
+      "latitude": 38.6531,
+      "timezone": -6
+    },
+    "geometry": { "type": "Point", "coordinates": [-90.243462, 38.6531] },
+    "record_timestamp": "2018-02-09T11:33:38.603-05:00"
+  },
+  {
+    "datasetid": "us-zip-code-latitude-and-longitude",
+    "recordid": "4222d37c8bba8019ff44e8e07c910bca8b1bd1ba",
+    "fields": {
+      "city": "Saint Louis",
+      "zip": "63135",
+      "dst": 1,
+      "geopoint": [38.74785, -90.30258],
+      "longitude": -90.30258,
+      "state": "MO",
+      "latitude": 38.74785,
+      "timezone": -6
+    },
+    "geometry": { "type": "Point", "coordinates": [-90.30258, 38.74785] },
+    "record_timestamp": "2018-02-09T11:33:38.603-05:00"
+  },
+  {
+    "datasetid": "us-zip-code-latitude-and-longitude",
+    "recordid": "37d904bab1b50013d39ed1d8088ad21200127589",
+    "fields": {
+      "city": "Saint Louis",
+      "zip": "63114",
+      "dst": 1,
+      "geopoint": [38.702651, -90.36109],
+      "longitude": -90.36109,
+      "state": "MO",
+      "latitude": 38.702651,
+      "timezone": -6
+    },
+    "geometry": { "type": "Point", "coordinates": [-90.36109, 38.702651] },
+    "record_timestamp": "2018-02-09T11:33:38.603-05:00"
+  },
+  {
+    "datasetid": "us-zip-code-latitude-and-longitude",
+    "recordid": "75d56a52a65b05820f81b6018886470acbd5e79b",
+    "fields": {
+      "city": "Saint Louis",
+      "zip": "63140",
+      "dst": 1,
+      "geopoint": [38.73965, -90.32178],
+      "longitude": -90.32178,
+      "state": "MO",
+      "latitude": 38.73965,
+      "timezone": -6
+    },
+    "geometry": { "type": "Point", "coordinates": [-90.32178, 38.73965] },
+    "record_timestamp": "2018-02-09T11:33:38.603-05:00"
+  },
+  {
+    "datasetid": "us-zip-code-latitude-and-longitude",
+    "recordid": "1071f0f5d12ac6e7f68c1f4b3d5832982ec833e0",
+    "fields": {
+      "city": "Saint Louis",
+      "zip": "63195",
+      "dst": 1,
+      "geopoint": [38.6531, -90.243462],
+      "longitude": -90.243462,
+      "state": "MO",
+      "latitude": 38.6531,
+      "timezone": -6
+    },
+    "geometry": { "type": "Point", "coordinates": [-90.243462, 38.6531] },
+    "record_timestamp": "2018-02-09T11:33:38.603-05:00"
+  },
+  {
+    "datasetid": "us-zip-code-latitude-and-longitude",
+    "recordid": "383d771df9a2907e09850935e41500d098f01d01",
+    "fields": {
+      "city": "Saint Louis",
+      "zip": "63147",
+      "dst": 1,
+      "geopoint": [38.692861, -90.21905],
+      "longitude": -90.21905,
+      "state": "MO",
+      "latitude": 38.692861,
+      "timezone": -6
+    },
+    "geometry": { "type": "Point", "coordinates": [-90.21905, 38.692861] },
+    "record_timestamp": "2018-02-09T11:33:38.603-05:00"
+  },
+  {
+    "datasetid": "us-zip-code-latitude-and-longitude",
+    "recordid": "3f0a24266cf5eba6fdb27a94a52c67ce48226fe7",
+    "fields": {
+      "city": "Saint Louis",
+      "zip": "63166",
+      "dst": 1,
+      "geopoint": [38.6531, -90.243462],
+      "longitude": -90.243462,
+      "state": "MO",
+      "latitude": 38.6531,
+      "timezone": -6
+    },
+    "geometry": { "type": "Point", "coordinates": [-90.243462, 38.6531] },
+    "record_timestamp": "2018-02-09T11:33:38.603-05:00"
+  },
+  {
+    "datasetid": "us-zip-code-latitude-and-longitude",
+    "recordid": "01fc94713d177d96a48563314623d4ca0fa24392",
+    "fields": {
+      "city": "Saint Louis",
+      "zip": "63167",
+      "dst": 1,
+      "geopoint": [38.638318, -90.427118],
+      "longitude": -90.427118,
+      "state": "MO",
+      "latitude": 38.638318,
+      "timezone": -6
+    },
+    "geometry": { "type": "Point", "coordinates": [-90.427118, 38.638318] },
+    "record_timestamp": "2018-02-09T11:33:38.603-05:00"
+  },
+  {
+    "datasetid": "us-zip-code-latitude-and-longitude",
+    "recordid": "cf6bd70d46d6e33390d3da919751b8c1537c344f",
+    "fields": {
+      "city": "Saint Louis",
+      "zip": "63117",
+      "dst": 1,
+      "geopoint": [38.628402, -90.32636],
+      "longitude": -90.32636,
+      "state": "MO",
+      "latitude": 38.628402,
+      "timezone": -6
+    },
+    "geometry": { "type": "Point", "coordinates": [-90.32636, 38.628402] },
+    "record_timestamp": "2018-02-09T11:33:38.603-05:00"
+  },
+  {
+    "datasetid": "us-zip-code-latitude-and-longitude",
+    "recordid": "cee550314bdff2c350adbc107c5200cb10362d7c",
+    "fields": {
+      "city": "Saint Louis",
+      "zip": "63127",
+      "dst": 1,
+      "geopoint": [38.53987, -90.40024],
+      "longitude": -90.40024,
+      "state": "MO",
+      "latitude": 38.53987,
+      "timezone": -6
+    },
+    "geometry": { "type": "Point", "coordinates": [-90.40024, 38.53987] },
+    "record_timestamp": "2018-02-09T11:33:38.603-05:00"
+  },
+  {
+    "datasetid": "us-zip-code-latitude-and-longitude",
+    "recordid": "80dc0211efbc2237850eb990bf6e5c1da68453e6",
+    "fields": {
+      "city": "Saint Louis",
+      "zip": "63145",
+      "dst": 1,
+      "geopoint": [38.638318, -90.427118],
+      "longitude": -90.427118,
+      "state": "MO",
+      "latitude": 38.638318,
+      "timezone": -6
+    },
+    "geometry": { "type": "Point", "coordinates": [-90.427118, 38.638318] },
+    "record_timestamp": "2018-02-09T11:33:38.603-05:00"
+  },
+  {
+    "datasetid": "us-zip-code-latitude-and-longitude",
+    "recordid": "134cf2df5b260c742b86bb68a34322d93f4b536d",
+    "fields": {
+      "city": "Saint Louis",
+      "zip": "63118",
+      "dst": 1,
+      "geopoint": [38.594901, -90.2278],
+      "longitude": -90.2278,
+      "state": "MO",
+      "latitude": 38.594901,
+      "timezone": -6
+    },
+    "geometry": { "type": "Point", "coordinates": [-90.2278, 38.594901] },
+    "record_timestamp": "2018-02-09T11:33:38.603-05:00"
+  },
+  {
+    "datasetid": "us-zip-code-latitude-and-longitude",
+    "recordid": "a4fe0cf5a4d9d05fd393a577eb5346514fe250d4",
+    "fields": {
+      "city": "Saint Louis",
+      "zip": "63198",
+      "dst": 1,
+      "geopoint": [38.638318, -90.427118],
+      "longitude": -90.427118,
+      "state": "MO",
+      "latitude": 38.638318,
+      "timezone": -6
+    },
+    "geometry": { "type": "Point", "coordinates": [-90.427118, 38.638318] },
+    "record_timestamp": "2018-02-09T11:33:38.603-05:00"
+  },
+  {
+    "datasetid": "us-zip-code-latitude-and-longitude",
+    "recordid": "1726fe017f98f92cdc69497a40bfe4d0570aa8c3",
+    "fields": {
+      "city": "Saint Louis",
+      "zip": "63120",
+      "dst": 1,
+      "geopoint": [38.691901, -90.25992],
+      "longitude": -90.25992,
+      "state": "MO",
+      "latitude": 38.691901,
+      "timezone": -6
+    },
+    "geometry": { "type": "Point", "coordinates": [-90.25992, 38.691901] },
+    "record_timestamp": "2018-02-09T11:33:38.603-05:00"
+  },
+  {
+    "datasetid": "us-zip-code-latitude-and-longitude",
+    "recordid": "8d4f9abe7dfb99adfc75e128a8f60bd332ded559",
+    "fields": {
+      "city": "Saint Louis",
+      "zip": "63150",
+      "dst": 1,
+      "geopoint": [38.6531, -90.243462],
+      "longitude": -90.243462,
+      "state": "MO",
+      "latitude": 38.6531,
+      "timezone": -6
+    },
+    "geometry": { "type": "Point", "coordinates": [-90.243462, 38.6531] },
+    "record_timestamp": "2018-02-09T11:33:38.603-05:00"
+  },
+  {
+    "datasetid": "us-zip-code-latitude-and-longitude",
+    "recordid": "275cf5b3fd78bf16192a84711764e7a88f218003",
+    "fields": {
+      "city": "Saint Louis",
+      "zip": "63106",
+      "dst": 1,
+      "geopoint": [38.644451, -90.20636],
+      "longitude": -90.20636,
+      "state": "MO",
+      "latitude": 38.644451,
+      "timezone": -6
+    },
+    "geometry": { "type": "Point", "coordinates": [-90.20636, 38.644451] },
+    "record_timestamp": "2018-02-09T11:33:38.603-05:00"
+  },
+  {
+    "datasetid": "us-zip-code-latitude-and-longitude",
+    "recordid": "aba67b3306f2d46ec2710334cc896c25ab189de5",
+    "fields": {
+      "city": "Saint Louis",
+      "zip": "63109",
+      "dst": 1,
+      "geopoint": [38.586052, -90.2941],
+      "longitude": -90.2941,
+      "state": "MO",
+      "latitude": 38.586052,
+      "timezone": -6
+    },
+    "geometry": { "type": "Point", "coordinates": [-90.2941, 38.586052] },
+    "record_timestamp": "2018-02-09T11:33:38.603-05:00"
+  },
+  {
+    "datasetid": "us-zip-code-latitude-and-longitude",
+    "recordid": "8c75c3771e707692b6a290e8dc30e95743f5b204",
+    "fields": {
+      "city": "Saint Louis",
+      "zip": "63139",
+      "dst": 1,
+      "geopoint": [38.610901, -90.29174],
+      "longitude": -90.29174,
+      "state": "MO",
+      "latitude": 38.610901,
+      "timezone": -6
+    },
+    "geometry": { "type": "Point", "coordinates": [-90.29174, 38.610901] },
+    "record_timestamp": "2018-02-09T11:33:38.603-05:00"
+  },
+  {
+    "datasetid": "us-zip-code-latitude-and-longitude",
+    "recordid": "84dd6095c92b5e78a36a78be0011f6d1742fb884",
+    "fields": {
+      "city": "Saint Louis",
+      "zip": "63108",
+      "dst": 1,
+      "geopoint": [38.646201, -90.25435],
+      "longitude": -90.25435,
+      "state": "MO",
+      "latitude": 38.646201,
+      "timezone": -6
+    },
+    "geometry": { "type": "Point", "coordinates": [-90.25435, 38.646201] },
+    "record_timestamp": "2018-02-09T11:33:38.603-05:00"
+  },
+  {
+    "datasetid": "us-zip-code-latitude-and-longitude",
+    "recordid": "76516367e5a909e981bef80d0c9c20bc66d40a6d",
+    "fields": {
+      "city": "Saint Louis",
+      "zip": "63164",
+      "dst": 1,
+      "geopoint": [38.6531, -90.243462],
+      "longitude": -90.243462,
+      "state": "MO",
+      "latitude": 38.6531,
+      "timezone": -6
+    },
+    "geometry": { "type": "Point", "coordinates": [-90.243462, 38.6531] },
+    "record_timestamp": "2018-02-09T11:33:38.603-05:00"
+  },
+  {
+    "datasetid": "us-zip-code-latitude-and-longitude",
+    "recordid": "829e40df2e42a188ff92fe7ededdfcaf414c9f3b",
+    "fields": {
+      "city": "Saint Louis",
+      "zip": "63132",
+      "dst": 1,
+      "geopoint": [38.675784, -90.37463],
+      "longitude": -90.37463,
+      "state": "MO",
+      "latitude": 38.675784,
+      "timezone": -6
+    },
+    "geometry": { "type": "Point", "coordinates": [-90.37463, 38.675784] },
+    "record_timestamp": "2018-02-09T11:33:38.603-05:00"
+  },
+  {
+    "datasetid": "us-zip-code-latitude-and-longitude",
+    "recordid": "a06735185c16776b4d576aea706a3d5de3a9ce47",
+    "fields": {
+      "city": "Saint Louis",
+      "zip": "63126",
+      "dst": 1,
+      "geopoint": [38.552303, -90.37921],
+      "longitude": -90.37921,
+      "state": "MO",
+      "latitude": 38.552303,
+      "timezone": -6
+    },
+    "geometry": { "type": "Point", "coordinates": [-90.37921, 38.552303] },
+    "record_timestamp": "2018-02-09T11:33:38.603-05:00"
+  },
+  {
+    "datasetid": "us-zip-code-latitude-and-longitude",
+    "recordid": "8052a82285e3a780cf2e2e7a62c4efe8a2a3c2a3",
+    "fields": {
+      "city": "Saint Louis",
+      "zip": "63116",
+      "dst": 1,
+      "geopoint": [38.580552, -90.26307],
+      "longitude": -90.26307,
+      "state": "MO",
+      "latitude": 38.580552,
+      "timezone": -6
+    },
+    "geometry": { "type": "Point", "coordinates": [-90.26307, 38.580552] },
+    "record_timestamp": "2018-02-09T11:33:38.603-05:00"
+  },
+  {
+    "datasetid": "us-zip-code-latitude-and-longitude",
+    "recordid": "bdb2382149da4ba001be3081f86b2f716d4a5981",
+    "fields": {
+      "city": "Saint Louis",
+      "zip": "63115",
+      "dst": 1,
+      "geopoint": [38.676851, -90.24009],
+      "longitude": -90.24009,
+      "state": "MO",
+      "latitude": 38.676851,
+      "timezone": -6
+    },
+    "geometry": { "type": "Point", "coordinates": [-90.24009, 38.676851] },
+    "record_timestamp": "2018-02-09T11:33:38.603-05:00"
+  },
+  {
+    "datasetid": "us-zip-code-latitude-and-longitude",
+    "recordid": "2f40bd7ac6871b0a00ef4a62213e8bdb84e18934",
+    "fields": {
+      "city": "Saint Louis",
+      "zip": "63125",
+      "dst": 1,
+      "geopoint": [38.524066, -90.2895],
+      "longitude": -90.2895,
+      "state": "MO",
+      "latitude": 38.524066,
+      "timezone": -6
+    },
+    "geometry": { "type": "Point", "coordinates": [-90.2895, 38.524066] },
+    "record_timestamp": "2018-02-09T11:33:38.603-05:00"
+  },
+  {
+    "datasetid": "us-zip-code-latitude-and-longitude",
+    "recordid": "802f810e68f98144325fa578e6e7e5f6f5b10155",
+    "fields": {
+      "city": "Saint Louis",
+      "zip": "63158",
+      "dst": 1,
+      "geopoint": [38.6531, -90.243462],
+      "longitude": -90.243462,
+      "state": "MO",
+      "latitude": 38.6531,
+      "timezone": -6
+    },
+    "geometry": { "type": "Point", "coordinates": [-90.243462, 38.6531] },
+    "record_timestamp": "2018-02-09T11:33:38.603-05:00"
+  },
+  {
+    "datasetid": "us-zip-code-latitude-and-longitude",
+    "recordid": "b5985923850669b7fa62db4ef359de34030e3daf",
+    "fields": {
+      "city": "Saint Louis",
+      "zip": "63163",
+      "dst": 1,
+      "geopoint": [38.6531, -90.243462],
+      "longitude": -90.243462,
+      "state": "MO",
+      "latitude": 38.6531,
+      "timezone": -6
+    },
+    "geometry": { "type": "Point", "coordinates": [-90.243462, 38.6531] },
+    "record_timestamp": "2018-02-09T11:33:38.603-05:00"
+  },
+  {
+    "datasetid": "us-zip-code-latitude-and-longitude",
+    "recordid": "5dcb5c592aadd44e6826b56796a2361c06249809",
+    "fields": {
+      "city": "Saint Louis",
+      "zip": "63128",
+      "dst": 1,
+      "geopoint": [38.500734, -90.37113],
+      "longitude": -90.37113,
+      "state": "MO",
+      "latitude": 38.500734,
+      "timezone": -6
+    },
+    "geometry": { "type": "Point", "coordinates": [-90.37113, 38.500734] },
+    "record_timestamp": "2018-02-09T11:33:38.603-05:00"
+  },
+  {
+    "datasetid": "us-zip-code-latitude-and-longitude",
+    "recordid": "18ac7eac7adde66a3b2e43f7fca3a50e5fa334cb",
+    "fields": {
+      "city": "Saint Louis",
+      "zip": "63199",
+      "dst": 1,
+      "geopoint": [38.6531, -90.243462],
+      "longitude": -90.243462,
+      "state": "MO",
+      "latitude": 38.6531,
+      "timezone": -6
+    },
+    "geometry": { "type": "Point", "coordinates": [-90.243462, 38.6531] },
+    "record_timestamp": "2018-02-09T11:33:38.603-05:00"
+  },
+  {
+    "datasetid": "us-zip-code-latitude-and-longitude",
+    "recordid": "7df0f81cb143b553718e2708cf2ed5a4b77ae64b",
+    "fields": {
+      "city": "Saint Louis",
+      "zip": "63156",
+      "dst": 1,
+      "geopoint": [38.6531, -90.243462],
+      "longitude": -90.243462,
+      "state": "MO",
+      "latitude": 38.6531,
+      "timezone": -6
+    },
+    "geometry": { "type": "Point", "coordinates": [-90.243462, 38.6531] },
+    "record_timestamp": "2018-02-09T11:33:38.603-05:00"
+  },
+  {
+    "datasetid": "us-zip-code-latitude-and-longitude",
+    "recordid": "67b3e185deb7306ebc651f6f18005754e3389589",
+    "fields": {
+      "city": "Saint Louis",
+      "zip": "63143",
+      "dst": 1,
+      "geopoint": [38.612452, -90.31822],
+      "longitude": -90.31822,
+      "state": "MO",
+      "latitude": 38.612452,
+      "timezone": -6
+    },
+    "geometry": { "type": "Point", "coordinates": [-90.31822, 38.612452] },
+    "record_timestamp": "2018-02-09T11:33:38.603-05:00"
+  },
+  {
+    "datasetid": "us-zip-code-latitude-and-longitude",
+    "recordid": "266821a2e4d91b0544e11e078f4d0c42f0704c7d",
+    "fields": {
+      "city": "Saint Louis",
+      "zip": "63107",
+      "dst": 1,
+      "geopoint": [38.6628, -90.20949],
+      "longitude": -90.20949,
+      "state": "MO",
+      "latitude": 38.6628,
+      "timezone": -6
+    },
+    "geometry": { "type": "Point", "coordinates": [-90.20949, 38.6628] },
+    "record_timestamp": "2018-02-09T11:33:38.603-05:00"
+  },
+  {
+    "datasetid": "us-zip-code-latitude-and-longitude",
+    "recordid": "82dc604abf07f99df37933ebfdf7596585a6ebfe",
+    "fields": {
+      "city": "Saint Louis",
+      "zip": "63169",
+      "dst": 1,
+      "geopoint": [38.6531, -90.243462],
+      "longitude": -90.243462,
+      "state": "MO",
+      "latitude": 38.6531,
+      "timezone": -6
+    },
+    "geometry": { "type": "Point", "coordinates": [-90.243462, 38.6531] },
+    "record_timestamp": "2018-02-09T11:33:38.603-05:00"
+  },
+  {
+    "datasetid": "us-zip-code-latitude-and-longitude",
+    "recordid": "0821ac61652202ffee189f8cc3c79ba6a722b93c",
+    "fields": {
+      "city": "Saint Louis",
+      "zip": "63146",
+      "dst": 1,
+      "geopoint": [38.688585, -90.44689],
+      "longitude": -90.44689,
+      "state": "MO",
+      "latitude": 38.688585,
+      "timezone": -6
+    },
+    "geometry": { "type": "Point", "coordinates": [-90.44689, 38.688585] },
+    "record_timestamp": "2018-02-09T11:33:38.603-05:00"
+  },
+  {
+    "datasetid": "us-zip-code-latitude-and-longitude",
+    "recordid": "bf9dc9cf968aac4189ba01be1eade6e30c47ddab",
+    "fields": {
+      "city": "Saint Louis",
+      "zip": "63141",
+      "dst": 1,
+      "geopoint": [38.662302, -90.45363],
+      "longitude": -90.45363,
+      "state": "MO",
+      "latitude": 38.662302,
+      "timezone": -6
+    },
+    "geometry": { "type": "Point", "coordinates": [-90.45363, 38.662302] },
+    "record_timestamp": "2018-02-09T11:33:38.603-05:00"
+  },
+  {
+    "datasetid": "us-zip-code-latitude-and-longitude",
+    "recordid": "6a95d32debbca9a3ecd40e3c0c24774042fc2d89",
+    "fields": {
+      "city": "Saint Louis",
+      "zip": "63155",
+      "dst": 1,
+      "geopoint": [38.6531, -90.243462],
+      "longitude": -90.243462,
+      "state": "MO",
+      "latitude": 38.6531,
+      "timezone": -6
+    },
+    "geometry": { "type": "Point", "coordinates": [-90.243462, 38.6531] },
+    "record_timestamp": "2018-02-09T11:33:38.603-05:00"
+  },
+  {
+    "datasetid": "us-zip-code-latitude-and-longitude",
+    "recordid": "be6e3195869269d4b48be5dbaf3ab3558755ae58",
+    "fields": {
+      "city": "Saint Louis",
+      "zip": "63112",
+      "dst": 1,
+      "geopoint": [38.661351, -90.28434],
+      "longitude": -90.28434,
+      "state": "MO",
+      "latitude": 38.661351,
+      "timezone": -6
+    },
+    "geometry": { "type": "Point", "coordinates": [-90.28434, 38.661351] },
+    "record_timestamp": "2018-02-09T11:33:38.603-05:00"
+  },
+  {
+    "datasetid": "us-zip-code-latitude-and-longitude",
+    "recordid": "4cc792aca9b8f7942e2575889d3c80b43dcc4404",
+    "fields": {
+      "city": "Saint Louis",
+      "zip": "63104",
+      "dst": 1,
+      "geopoint": [38.610701, -90.21362],
+      "longitude": -90.21362,
+      "state": "MO",
+      "latitude": 38.610701,
+      "timezone": -6
+    },
+    "geometry": { "type": "Point", "coordinates": [-90.21362, 38.610701] },
+    "record_timestamp": "2018-02-09T11:33:38.603-05:00"
+  },
+  {
+    "datasetid": "us-zip-code-latitude-and-longitude",
+    "recordid": "369c8181b9141095ced34d93f83ee728b276b1e0",
+    "fields": {
+      "city": "Saint Louis",
+      "zip": "63129",
+      "dst": 1,
+      "geopoint": [38.469953, -90.32161],
+      "longitude": -90.32161,
+      "state": "MO",
+      "latitude": 38.469953,
+      "timezone": -6
+    },
+    "geometry": { "type": "Point", "coordinates": [-90.32161, 38.469953] },
+    "record_timestamp": "2018-02-09T11:33:38.603-05:00"
+  },
+  {
+    "datasetid": "us-zip-code-latitude-and-longitude",
+    "recordid": "f4e49c0bbbf079cd026e8909f17c56d521119e64",
+    "fields": {
+      "city": "Saint Louis",
+      "zip": "63122",
+      "dst": 1,
+      "geopoint": [38.582702, -90.40966],
+      "longitude": -90.40966,
+      "state": "MO",
+      "latitude": 38.582702,
+      "timezone": -6
+    },
+    "geometry": { "type": "Point", "coordinates": [-90.40966, 38.582702] },
+    "record_timestamp": "2018-02-09T11:33:38.603-05:00"
+  },
+  {
+    "datasetid": "us-zip-code-latitude-and-longitude",
+    "recordid": "8863b64acde0534158d2b7c6414757105db380de",
+    "fields": {
+      "city": "Saint Louis",
+      "zip": "63171",
+      "dst": 1,
+      "geopoint": [38.6531, -90.243462],
+      "longitude": -90.243462,
+      "state": "MO",
+      "latitude": 38.6531,
+      "timezone": -6
+    },
+    "geometry": { "type": "Point", "coordinates": [-90.243462, 38.6531] },
+    "record_timestamp": "2018-02-09T11:33:38.603-05:00"
+  },
+  {
+    "datasetid": "us-zip-code-latitude-and-longitude",
+    "recordid": "abadd437d1cddca219a33f0017cf2cc59bc45d69",
+    "fields": {
+      "city": "Saint Louis",
+      "zip": "63121",
+      "dst": 1,
+      "geopoint": [38.706301, -90.29609],
+      "longitude": -90.29609,
+      "state": "MO",
+      "latitude": 38.706301,
+      "timezone": -6
+    },
+    "geometry": { "type": "Point", "coordinates": [-90.29609, 38.706301] },
+    "record_timestamp": "2018-02-09T11:33:38.603-05:00"
+  },
+  {
+    "datasetid": "us-zip-code-latitude-and-longitude",
+    "recordid": "d4146822842d287a9c6cd51b911a72d939aedfbf",
+    "fields": {
+      "city": "Saint Louis",
+      "zip": "63136",
+      "dst": 1,
+      "geopoint": [38.73835, -90.26154],
+      "longitude": -90.26154,
+      "state": "MO",
+      "latitude": 38.73835,
+      "timezone": -6
+    },
+    "geometry": { "type": "Point", "coordinates": [-90.26154, 38.73835] },
+    "record_timestamp": "2018-02-09T11:33:38.603-05:00"
+  },
+  {
+    "datasetid": "us-zip-code-latitude-and-longitude",
+    "recordid": "d65f2f2d94c483519f6fe6b21659e17de8ce263b",
+    "fields": {
+      "city": "Saint Louis",
+      "zip": "63130",
+      "dst": 1,
+      "geopoint": [38.663951, -90.32348],
+      "longitude": -90.32348,
+      "state": "MO",
+      "latitude": 38.663951,
+      "timezone": -6
+    },
+    "geometry": { "type": "Point", "coordinates": [-90.32348, 38.663951] },
+    "record_timestamp": "2018-02-09T11:33:38.603-05:00"
+  },
+  {
+    "datasetid": "us-zip-code-latitude-and-longitude",
+    "recordid": "bf7d83d0df596296a75c38e4e57a4766b21636ca",
+    "fields": {
+      "city": "Saint Louis",
+      "zip": "63153",
+      "dst": 1,
+      "geopoint": [38.6531, -90.243462],
+      "longitude": -90.243462,
+      "state": "MO",
+      "latitude": 38.6531,
+      "timezone": -6
+    },
+    "geometry": { "type": "Point", "coordinates": [-90.243462, 38.6531] },
+    "record_timestamp": "2018-02-09T11:33:38.603-05:00"
+  },
+  {
+    "datasetid": "us-zip-code-latitude-and-longitude",
+    "recordid": "a0da616b9379dedf51646de789a98bfe8e8a5181",
+    "fields": {
+      "city": "Saint Louis",
+      "zip": "63138",
+      "dst": 1,
+      "geopoint": [38.787849, -90.21041],
+      "longitude": -90.21041,
+      "state": "MO",
+      "latitude": 38.787849,
+      "timezone": -6
+    },
+    "geometry": { "type": "Point", "coordinates": [-90.21041, 38.787849] },
+    "record_timestamp": "2018-02-09T11:33:38.603-05:00"
+  },
+  {
+    "datasetid": "us-zip-code-latitude-and-longitude",
+    "recordid": "8d8871c9de81bcb95735669080be225433bb1295",
+    "fields": {
+      "city": "Saint Louis",
+      "zip": "63105",
+      "dst": 1,
+      "geopoint": [38.645484, -90.32888],
+      "longitude": -90.32888,
+      "state": "MO",
+      "latitude": 38.645484,
+      "timezone": -6
+    },
+    "geometry": { "type": "Point", "coordinates": [-90.32888, 38.645484] },
+    "record_timestamp": "2018-02-09T11:33:38.603-05:00"
+  },
+  {
+    "datasetid": "us-zip-code-latitude-and-longitude",
+    "recordid": "f91f55e79929cf81ae42096b5eb5db8ed18a28a8",
+    "fields": {
+      "city": "Saint Louis",
+      "zip": "63110",
+      "dst": 1,
+      "geopoint": [38.622601, -90.26182],
+      "longitude": -90.26182,
+      "state": "MO",
+      "latitude": 38.622601,
+      "timezone": -6
+    },
+    "geometry": { "type": "Point", "coordinates": [-90.26182, 38.622601] },
+    "record_timestamp": "2018-02-09T11:33:38.603-05:00"
+  }
+]

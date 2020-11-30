@@ -1,0 +1,1653 @@
+[
+  {
+    "datasetid": "us-zip-code-latitude-and-longitude",
+    "recordid": "f52c772a5412ed4441bfd1cab8f8551c635e0225",
+    "fields": {
+      "city": "Miami",
+      "zip": "33174",
+      "dst": 1,
+      "geopoint": [25.763044, -80.35919],
+      "longitude": -80.35919,
+      "state": "FL",
+      "latitude": 25.763044,
+      "timezone": -5
+    },
+    "geometry": { "type": "Point", "coordinates": [-80.35919, 25.763044] },
+    "record_timestamp": "2018-02-09T11:33:38.603-05:00"
+  },
+  {
+    "datasetid": "us-zip-code-latitude-and-longitude",
+    "recordid": "978e113fefa6a00c2c7b7e2e4fa670d45e805c9b",
+    "fields": {
+      "city": "Miami",
+      "zip": "33172",
+      "dst": 1,
+      "geopoint": [25.786634, -80.36151],
+      "longitude": -80.36151,
+      "state": "FL",
+      "latitude": 25.786634,
+      "timezone": -5
+    },
+    "geometry": { "type": "Point", "coordinates": [-80.36151, 25.786634] },
+    "record_timestamp": "2018-02-09T11:33:38.603-05:00"
+  },
+  {
+    "datasetid": "us-zip-code-latitude-and-longitude",
+    "recordid": "797638f119bb22a819309e848d020799f3b7231d",
+    "fields": {
+      "city": "Miami",
+      "zip": "33184",
+      "dst": 1,
+      "geopoint": [25.759184, -80.40773],
+      "longitude": -80.40773,
+      "state": "FL",
+      "latitude": 25.759184,
+      "timezone": -5
+    },
+    "geometry": { "type": "Point", "coordinates": [-80.40773, 25.759184] },
+    "record_timestamp": "2018-02-09T11:33:38.603-05:00"
+  },
+  {
+    "datasetid": "us-zip-code-latitude-and-longitude",
+    "recordid": "829ae6715db02d749438dd777a1236a59ddc01c5",
+    "fields": {
+      "city": "Miami",
+      "zip": "33192",
+      "dst": 1,
+      "geopoint": [25.558428, -80.458168],
+      "longitude": -80.458168,
+      "state": "FL",
+      "latitude": 25.558428,
+      "timezone": -5
+    },
+    "geometry": { "type": "Point", "coordinates": [-80.458168, 25.558428] },
+    "record_timestamp": "2018-02-09T11:33:38.603-05:00"
+  },
+  {
+    "datasetid": "us-zip-code-latitude-and-longitude",
+    "recordid": "3e02c174b35110ca7cf2d2d3b3a317f3be0caf7b",
+    "fields": {
+      "city": "Miami",
+      "zip": "33127",
+      "dst": 1,
+      "geopoint": [25.813808, -80.2058],
+      "longitude": -80.2058,
+      "state": "FL",
+      "latitude": 25.813808,
+      "timezone": -5
+    },
+    "geometry": { "type": "Point", "coordinates": [-80.2058, 25.813808] },
+    "record_timestamp": "2018-02-09T11:33:38.603-05:00"
+  },
+  {
+    "datasetid": "us-zip-code-latitude-and-longitude",
+    "recordid": "de5baa15a8f156b6776902dd6c8f0e664ae30cdd",
+    "fields": {
+      "city": "Miami",
+      "zip": "33233",
+      "dst": 1,
+      "geopoint": [25.558428, -80.458168],
+      "longitude": -80.458168,
+      "state": "FL",
+      "latitude": 25.558428,
+      "timezone": -5
+    },
+    "geometry": { "type": "Point", "coordinates": [-80.458168, 25.558428] },
+    "record_timestamp": "2018-02-09T11:33:38.603-05:00"
+  },
+  {
+    "datasetid": "us-zip-code-latitude-and-longitude",
+    "recordid": "4c2951d7bf5054939e3c525689fdd7b6abf5cefb",
+    "fields": {
+      "city": "Miami Beach",
+      "zip": "33119",
+      "dst": 1,
+      "geopoint": [25.784526, -80.131967],
+      "longitude": -80.131967,
+      "state": "FL",
+      "latitude": 25.784526,
+      "timezone": -5
+    },
+    "geometry": { "type": "Point", "coordinates": [-80.131967, 25.784526] },
+    "record_timestamp": "2018-02-09T11:33:38.603-05:00"
+  },
+  {
+    "datasetid": "us-zip-code-latitude-and-longitude",
+    "recordid": "0403675ef093c16136bdec1da29fb89e85a0e79a",
+    "fields": {
+      "city": "Miami",
+      "zip": "33296",
+      "dst": 1,
+      "geopoint": [25.558428, -80.458168],
+      "longitude": -80.458168,
+      "state": "FL",
+      "latitude": 25.558428,
+      "timezone": -5
+    },
+    "geometry": { "type": "Point", "coordinates": [-80.458168, 25.558428] },
+    "record_timestamp": "2018-02-09T11:33:38.603-05:00"
+  },
+  {
+    "datasetid": "us-zip-code-latitude-and-longitude",
+    "recordid": "051c9e2abaa0e3951253bd311088714e8a7e9a01",
+    "fields": {
+      "city": "Miami",
+      "zip": "33168",
+      "dst": 1,
+      "geopoint": [25.892185, -80.21032],
+      "longitude": -80.21032,
+      "state": "FL",
+      "latitude": 25.892185,
+      "timezone": -5
+    },
+    "geometry": { "type": "Point", "coordinates": [-80.21032, 25.892185] },
+    "record_timestamp": "2018-02-09T11:33:38.603-05:00"
+  },
+  {
+    "datasetid": "us-zip-code-latitude-and-longitude",
+    "recordid": "b46b2181d45d669b15e4b8540a527f53e53075ec",
+    "fields": {
+      "city": "Miami",
+      "zip": "33148",
+      "dst": 1,
+      "geopoint": [25.558428, -80.458168],
+      "longitude": -80.458168,
+      "state": "FL",
+      "latitude": 25.558428,
+      "timezone": -5
+    },
+    "geometry": { "type": "Point", "coordinates": [-80.458168, 25.558428] },
+    "record_timestamp": "2018-02-09T11:33:38.603-05:00"
+  },
+  {
+    "datasetid": "us-zip-code-latitude-and-longitude",
+    "recordid": "0be616912578da9b0c1f5805387b50bcbbbec8a3",
+    "fields": {
+      "city": "North Miami Beach",
+      "zip": "33160",
+      "dst": 1,
+      "geopoint": [25.941535000000002, -80.13861],
+      "longitude": -80.13861,
+      "state": "FL",
+      "latitude": 25.941535000000002,
+      "timezone": -5
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-80.13861, 25.941535000000002]
+    },
+    "record_timestamp": "2018-02-09T11:33:38.603-05:00"
+  },
+  {
+    "datasetid": "us-zip-code-latitude-and-longitude",
+    "recordid": "4a23deb5072437d572f2ae4540488330e3168931",
+    "fields": {
+      "city": "Miami",
+      "zip": "33164",
+      "dst": 1,
+      "geopoint": [25.558428, -80.458168],
+      "longitude": -80.458168,
+      "state": "FL",
+      "latitude": 25.558428,
+      "timezone": -5
+    },
+    "geometry": { "type": "Point", "coordinates": [-80.458168, 25.558428] },
+    "record_timestamp": "2018-02-09T11:33:38.603-05:00"
+  },
+  {
+    "datasetid": "us-zip-code-latitude-and-longitude",
+    "recordid": "5b44946d8b9f4f73ada96d177e9b38e1b3a51ae1",
+    "fields": {
+      "city": "Miami",
+      "zip": "33126",
+      "dst": 1,
+      "geopoint": [25.777977, -80.29718],
+      "longitude": -80.29718,
+      "state": "FL",
+      "latitude": 25.777977,
+      "timezone": -5
+    },
+    "geometry": { "type": "Point", "coordinates": [-80.29718, 25.777977] },
+    "record_timestamp": "2018-02-09T11:33:38.603-05:00"
+  },
+  {
+    "datasetid": "us-zip-code-latitude-and-longitude",
+    "recordid": "fe4171dda762567fccdf389714fe49daff549d52",
+    "fields": {
+      "city": "Miami",
+      "zip": "33101",
+      "dst": 1,
+      "geopoint": [25.779076, -80.19782],
+      "longitude": -80.19782,
+      "state": "FL",
+      "latitude": 25.779076,
+      "timezone": -5
+    },
+    "geometry": { "type": "Point", "coordinates": [-80.19782, 25.779076] },
+    "record_timestamp": "2018-02-09T11:33:38.603-05:00"
+  },
+  {
+    "datasetid": "us-zip-code-latitude-and-longitude",
+    "recordid": "5f0a2c1869e9efe6969ec1efb4ead6a672a92235",
+    "fields": {
+      "city": "Miami",
+      "zip": "33134",
+      "dst": 1,
+      "geopoint": [25.753927, -80.27034],
+      "longitude": -80.27034,
+      "state": "FL",
+      "latitude": 25.753927,
+      "timezone": -5
+    },
+    "geometry": { "type": "Point", "coordinates": [-80.27034, 25.753927] },
+    "record_timestamp": "2018-02-09T11:33:38.603-05:00"
+  },
+  {
+    "datasetid": "us-zip-code-latitude-and-longitude",
+    "recordid": "48b66fa590295a04788cd6994e60d9783d88ce55",
+    "fields": {
+      "city": "Miami",
+      "zip": "33182",
+      "dst": 1,
+      "geopoint": [25.781127, -80.40467],
+      "longitude": -80.40467,
+      "state": "FL",
+      "latitude": 25.781127,
+      "timezone": -5
+    },
+    "geometry": { "type": "Point", "coordinates": [-80.40467, 25.781127] },
+    "record_timestamp": "2018-02-09T11:33:38.603-05:00"
+  },
+  {
+    "datasetid": "us-zip-code-latitude-and-longitude",
+    "recordid": "5fd35bfaf005ea4daaaa1247548bde8b29763e99",
+    "fields": {
+      "city": "Miami",
+      "zip": "33137",
+      "dst": 1,
+      "geopoint": [25.817325, -80.19046],
+      "longitude": -80.19046,
+      "state": "FL",
+      "latitude": 25.817325,
+      "timezone": -5
+    },
+    "geometry": { "type": "Point", "coordinates": [-80.19046, 25.817325] },
+    "record_timestamp": "2018-02-09T11:33:38.603-05:00"
+  },
+  {
+    "datasetid": "us-zip-code-latitude-and-longitude",
+    "recordid": "b6acbd02e5df3cbf46e9c16b347ad3b3abee5f7e",
+    "fields": {
+      "city": "Miami",
+      "zip": "33265",
+      "dst": 1,
+      "geopoint": [25.558428, -80.458168],
+      "longitude": -80.458168,
+      "state": "FL",
+      "latitude": 25.558428,
+      "timezone": -5
+    },
+    "geometry": { "type": "Point", "coordinates": [-80.458168, 25.558428] },
+    "record_timestamp": "2018-02-09T11:33:38.603-05:00"
+  },
+  {
+    "datasetid": "us-zip-code-latitude-and-longitude",
+    "recordid": "9cc8ecbb08f7407df6de3771057073fec38f40e4",
+    "fields": {
+      "city": "Miami",
+      "zip": "33138",
+      "dst": 1,
+      "geopoint": [25.853184, -80.18622],
+      "longitude": -80.18622,
+      "state": "FL",
+      "latitude": 25.853184,
+      "timezone": -5
+    },
+    "geometry": { "type": "Point", "coordinates": [-80.18622, 25.853184] },
+    "record_timestamp": "2018-02-09T11:33:38.603-05:00"
+  },
+  {
+    "datasetid": "us-zip-code-latitude-and-longitude",
+    "recordid": "2d97e988c937ecfb2108b7d77e45f6f7dc45f043",
+    "fields": {
+      "city": "Miami",
+      "zip": "33128",
+      "dst": 1,
+      "geopoint": [25.777143, -80.20225],
+      "longitude": -80.20225,
+      "state": "FL",
+      "latitude": 25.777143,
+      "timezone": -5
+    },
+    "geometry": { "type": "Point", "coordinates": [-80.20225, 25.777143] },
+    "record_timestamp": "2018-02-09T11:33:38.603-05:00"
+  },
+  {
+    "datasetid": "us-zip-code-latitude-and-longitude",
+    "recordid": "87584eb2a1bbd9addb0d758a2785dba83a82431d",
+    "fields": {
+      "city": "Miami Beach",
+      "zip": "33141",
+      "dst": 1,
+      "geopoint": [25.858573, -80.12973],
+      "longitude": -80.12973,
+      "state": "FL",
+      "latitude": 25.858573,
+      "timezone": -5
+    },
+    "geometry": { "type": "Point", "coordinates": [-80.12973, 25.858573] },
+    "record_timestamp": "2018-02-09T11:33:38.603-05:00"
+  },
+  {
+    "datasetid": "us-zip-code-latitude-and-longitude",
+    "recordid": "d1bf966d5583e5c444ce4660de1897a76e4adf46",
+    "fields": {
+      "city": "Miami",
+      "zip": "33193",
+      "dst": 1,
+      "geopoint": [25.70028, -80.44721],
+      "longitude": -80.44721,
+      "state": "FL",
+      "latitude": 25.70028,
+      "timezone": -5
+    },
+    "geometry": { "type": "Point", "coordinates": [-80.44721, 25.70028] },
+    "record_timestamp": "2018-02-09T11:33:38.603-05:00"
+  },
+  {
+    "datasetid": "us-zip-code-latitude-and-longitude",
+    "recordid": "19c2b73a0011ff79db9581568636f8166f01ed00",
+    "fields": {
+      "city": "Miami",
+      "zip": "33122",
+      "dst": 1,
+      "geopoint": [25.799962, -80.31775],
+      "longitude": -80.31775,
+      "state": "FL",
+      "latitude": 25.799962,
+      "timezone": -5
+    },
+    "geometry": { "type": "Point", "coordinates": [-80.31775, 25.799962] },
+    "record_timestamp": "2018-02-09T11:33:38.603-05:00"
+  },
+  {
+    "datasetid": "us-zip-code-latitude-and-longitude",
+    "recordid": "509eb22bc5c48c97c3ccfc4950b044df75fe8127",
+    "fields": {
+      "city": "Miami",
+      "zip": "33125",
+      "dst": 1,
+      "geopoint": [25.782176, -80.23607],
+      "longitude": -80.23607,
+      "state": "FL",
+      "latitude": 25.782176,
+      "timezone": -5
+    },
+    "geometry": { "type": "Point", "coordinates": [-80.23607, 25.782176] },
+    "record_timestamp": "2018-02-09T11:33:38.603-05:00"
+  },
+  {
+    "datasetid": "us-zip-code-latitude-and-longitude",
+    "recordid": "8afd6385ddddd68a7b17c0ed035cb639b3b9e3e0",
+    "fields": {
+      "city": "Miami",
+      "zip": "33195",
+      "dst": 1,
+      "geopoint": [25.772876, -80.187019],
+      "longitude": -80.187019,
+      "state": "FL",
+      "latitude": 25.772876,
+      "timezone": -5
+    },
+    "geometry": { "type": "Point", "coordinates": [-80.187019, 25.772876] },
+    "record_timestamp": "2018-02-09T11:33:38.603-05:00"
+  },
+  {
+    "datasetid": "us-zip-code-latitude-and-longitude",
+    "recordid": "df11f023e949c6ad1a4ef06490bd0f5f245138ea",
+    "fields": {
+      "city": "Miami",
+      "zip": "33151",
+      "dst": 1,
+      "geopoint": [25.832074, -80.20942],
+      "longitude": -80.20942,
+      "state": "FL",
+      "latitude": 25.832074,
+      "timezone": -5
+    },
+    "geometry": { "type": "Point", "coordinates": [-80.20942, 25.832074] },
+    "record_timestamp": "2018-02-09T11:33:38.603-05:00"
+  },
+  {
+    "datasetid": "us-zip-code-latitude-and-longitude",
+    "recordid": "b46158bb52b0644077f39914b5f79380c3f5be72",
+    "fields": {
+      "city": "Miami",
+      "zip": "33194",
+      "dst": 1,
+      "geopoint": [25.745549, -80.4651],
+      "longitude": -80.4651,
+      "state": "FL",
+      "latitude": 25.745549,
+      "timezone": -5
+    },
+    "geometry": { "type": "Point", "coordinates": [-80.4651, 25.745549] },
+    "record_timestamp": "2018-02-09T11:33:38.603-05:00"
+  },
+  {
+    "datasetid": "us-zip-code-latitude-and-longitude",
+    "recordid": "3016fab3b9353b5d2c2902c06e5811a27a9d052e",
+    "fields": {
+      "city": "Miami",
+      "zip": "33150",
+      "dst": 1,
+      "geopoint": [25.851974, -80.20566],
+      "longitude": -80.20566,
+      "state": "FL",
+      "latitude": 25.851974,
+      "timezone": -5
+    },
+    "geometry": { "type": "Point", "coordinates": [-80.20566, 25.851974] },
+    "record_timestamp": "2018-02-09T11:33:38.603-05:00"
+  },
+  {
+    "datasetid": "us-zip-code-latitude-and-longitude",
+    "recordid": "961c2596048f1b5f671c5a9a23a3190767f8684f",
+    "fields": {
+      "city": "Miami Beach",
+      "zip": "33139",
+      "dst": 1,
+      "geopoint": [25.784276, -80.14126],
+      "longitude": -80.14126,
+      "state": "FL",
+      "latitude": 25.784276,
+      "timezone": -5
+    },
+    "geometry": { "type": "Point", "coordinates": [-80.14126, 25.784276] },
+    "record_timestamp": "2018-02-09T11:33:38.603-05:00"
+  },
+  {
+    "datasetid": "us-zip-code-latitude-and-longitude",
+    "recordid": "c9e3f56e2f0b5c12c810100a1943a83618570b32",
+    "fields": {
+      "city": "Miami",
+      "zip": "33111",
+      "dst": 1,
+      "geopoint": [25.558428, -80.458168],
+      "longitude": -80.458168,
+      "state": "FL",
+      "latitude": 25.558428,
+      "timezone": -5
+    },
+    "geometry": { "type": "Point", "coordinates": [-80.458168, 25.558428] },
+    "record_timestamp": "2018-02-09T11:33:38.603-05:00"
+  },
+  {
+    "datasetid": "us-zip-code-latitude-and-longitude",
+    "recordid": "7927ceb291c1d5b4ed13c7ded744ed0d9157cd96",
+    "fields": {
+      "city": "Miami",
+      "zip": "33173",
+      "dst": 1,
+      "geopoint": [25.702429, -80.36184],
+      "longitude": -80.36184,
+      "state": "FL",
+      "latitude": 25.702429,
+      "timezone": -5
+    },
+    "geometry": { "type": "Point", "coordinates": [-80.36184, 25.702429] },
+    "record_timestamp": "2018-02-09T11:33:38.603-05:00"
+  },
+  {
+    "datasetid": "us-zip-code-latitude-and-longitude",
+    "recordid": "e00bac47f9b7d4df4a4c67f79acc7ce0cd99732b",
+    "fields": {
+      "city": "Miami",
+      "zip": "33190",
+      "dst": 1,
+      "geopoint": [25.56071, -80.3494],
+      "longitude": -80.3494,
+      "state": "FL",
+      "latitude": 25.56071,
+      "timezone": -5
+    },
+    "geometry": { "type": "Point", "coordinates": [-80.3494, 25.56071] },
+    "record_timestamp": "2018-02-09T11:33:38.603-05:00"
+  },
+  {
+    "datasetid": "us-zip-code-latitude-and-longitude",
+    "recordid": "28b54554aec646f7ccd372ba489a4013236f623e",
+    "fields": {
+      "city": "Miami",
+      "zip": "33231",
+      "dst": 1,
+      "geopoint": [25.558428, -80.458168],
+      "longitude": -80.458168,
+      "state": "FL",
+      "latitude": 25.558428,
+      "timezone": -5
+    },
+    "geometry": { "type": "Point", "coordinates": [-80.458168, 25.558428] },
+    "record_timestamp": "2018-02-09T11:33:38.603-05:00"
+  },
+  {
+    "datasetid": "us-zip-code-latitude-and-longitude",
+    "recordid": "0005d7d353eba9300bd9fef93293f28b98d96491",
+    "fields": {
+      "city": "Miami",
+      "zip": "33121",
+      "dst": 1,
+      "geopoint": [25.558428, -80.458168],
+      "longitude": -80.458168,
+      "state": "FL",
+      "latitude": 25.558428,
+      "timezone": -5
+    },
+    "geometry": { "type": "Point", "coordinates": [-80.458168, 25.558428] },
+    "record_timestamp": "2018-02-09T11:33:38.603-05:00"
+  },
+  {
+    "datasetid": "us-zip-code-latitude-and-longitude",
+    "recordid": "0b5efa5d1c297a6c4a82c02de74a8ffb98b10923",
+    "fields": {
+      "city": "Miami",
+      "zip": "33245",
+      "dst": 1,
+      "geopoint": [25.558428, -80.458168],
+      "longitude": -80.458168,
+      "state": "FL",
+      "latitude": 25.558428,
+      "timezone": -5
+    },
+    "geometry": { "type": "Point", "coordinates": [-80.458168, 25.558428] },
+    "record_timestamp": "2018-02-09T11:33:38.603-05:00"
+  },
+  {
+    "datasetid": "us-zip-code-latitude-and-longitude",
+    "recordid": "6b642dee211e2ec0fc075ba12c02213d34593667",
+    "fields": {
+      "city": "Miami",
+      "zip": "33162",
+      "dst": 1,
+      "geopoint": [25.929571, -80.17839],
+      "longitude": -80.17839,
+      "state": "FL",
+      "latitude": 25.929571,
+      "timezone": -5
+    },
+    "geometry": { "type": "Point", "coordinates": [-80.17839, 25.929571] },
+    "record_timestamp": "2018-02-09T11:33:38.603-05:00"
+  },
+  {
+    "datasetid": "us-zip-code-latitude-and-longitude",
+    "recordid": "e6af7f9644eeff30f504e1e2416af3796afc16d4",
+    "fields": {
+      "city": "Miami",
+      "zip": "33189",
+      "dst": 1,
+      "geopoint": [25.574834, -80.3467],
+      "longitude": -80.3467,
+      "state": "FL",
+      "latitude": 25.574834,
+      "timezone": -5
+    },
+    "geometry": { "type": "Point", "coordinates": [-80.3467, 25.574834] },
+    "record_timestamp": "2018-02-09T11:33:38.603-05:00"
+  },
+  {
+    "datasetid": "us-zip-code-latitude-and-longitude",
+    "recordid": "c4dc4891bbf4826052fa213717e487b1ebb773f1",
+    "fields": {
+      "city": "Miami",
+      "zip": "33135",
+      "dst": 1,
+      "geopoint": [25.766577, -80.23576],
+      "longitude": -80.23576,
+      "state": "FL",
+      "latitude": 25.766577,
+      "timezone": -5
+    },
+    "geometry": { "type": "Point", "coordinates": [-80.23576, 25.766577] },
+    "record_timestamp": "2018-02-09T11:33:38.603-05:00"
+  },
+  {
+    "datasetid": "us-zip-code-latitude-and-longitude",
+    "recordid": "937ad44951aa6cb24cf9a28b2958d33c48c35fa5",
+    "fields": {
+      "city": "Miami",
+      "zip": "33144",
+      "dst": 1,
+      "geopoint": [25.76226, -80.30839],
+      "longitude": -80.30839,
+      "state": "FL",
+      "latitude": 25.76226,
+      "timezone": -5
+    },
+    "geometry": { "type": "Point", "coordinates": [-80.30839, 25.76226] },
+    "record_timestamp": "2018-02-09T11:33:38.603-05:00"
+  },
+  {
+    "datasetid": "us-zip-code-latitude-and-longitude",
+    "recordid": "22984ef4ec4be7de6b4def5edf76b06e1ea74f90",
+    "fields": {
+      "city": "Miami",
+      "zip": "33145",
+      "dst": 1,
+      "geopoint": [25.753177, -80.23327],
+      "longitude": -80.23327,
+      "state": "FL",
+      "latitude": 25.753177,
+      "timezone": -5
+    },
+    "geometry": { "type": "Point", "coordinates": [-80.23327, 25.753177] },
+    "record_timestamp": "2018-02-09T11:33:38.603-05:00"
+  },
+  {
+    "datasetid": "us-zip-code-latitude-and-longitude",
+    "recordid": "5d35762722fa8c55f7d7748d8d1428b9f8bca380",
+    "fields": {
+      "city": "Miami",
+      "zip": "33155",
+      "dst": 1,
+      "geopoint": [25.739011, -80.30685],
+      "longitude": -80.30685,
+      "state": "FL",
+      "latitude": 25.739011,
+      "timezone": -5
+    },
+    "geometry": { "type": "Point", "coordinates": [-80.30685, 25.739011] },
+    "record_timestamp": "2018-02-09T11:33:38.603-05:00"
+  },
+  {
+    "datasetid": "us-zip-code-latitude-and-longitude",
+    "recordid": "ab72633ff160a62ae164de6b8f70e68b2c2c7a39",
+    "fields": {
+      "city": "Miami",
+      "zip": "33136",
+      "dst": 1,
+      "geopoint": [25.786326, -80.2029],
+      "longitude": -80.2029,
+      "state": "FL",
+      "latitude": 25.786326,
+      "timezone": -5
+    },
+    "geometry": { "type": "Point", "coordinates": [-80.2029, 25.786326] },
+    "record_timestamp": "2018-02-09T11:33:38.603-05:00"
+  },
+  {
+    "datasetid": "us-zip-code-latitude-and-longitude",
+    "recordid": "c9c80adc1842c898a396f19fa7f5bdbccaca1bed",
+    "fields": {
+      "city": "Miami",
+      "zip": "33129",
+      "dst": 1,
+      "geopoint": [25.757227, -80.20656],
+      "longitude": -80.20656,
+      "state": "FL",
+      "latitude": 25.757227,
+      "timezone": -5
+    },
+    "geometry": { "type": "Point", "coordinates": [-80.20656, 25.757227] },
+    "record_timestamp": "2018-02-09T11:33:38.603-05:00"
+  },
+  {
+    "datasetid": "us-zip-code-latitude-and-longitude",
+    "recordid": "7b8cf6ac44fa420275ea05c61e8a54a14bf8c309",
+    "fields": {
+      "city": "Miami",
+      "zip": "33170",
+      "dst": 1,
+      "geopoint": [25.559785, -80.41664],
+      "longitude": -80.41664,
+      "state": "FL",
+      "latitude": 25.559785,
+      "timezone": -5
+    },
+    "geometry": { "type": "Point", "coordinates": [-80.41664, 25.559785] },
+    "record_timestamp": "2018-02-09T11:33:38.603-05:00"
+  },
+  {
+    "datasetid": "us-zip-code-latitude-and-longitude",
+    "recordid": "bc3bae2135dc1d29cf54468f9ec110e7e252538c",
+    "fields": {
+      "city": "Miami",
+      "zip": "33116",
+      "dst": 1,
+      "geopoint": [25.558428, -80.458168],
+      "longitude": -80.458168,
+      "state": "FL",
+      "latitude": 25.558428,
+      "timezone": -5
+    },
+    "geometry": { "type": "Point", "coordinates": [-80.458168, 25.558428] },
+    "record_timestamp": "2018-02-09T11:33:38.603-05:00"
+  },
+  {
+    "datasetid": "us-zip-code-latitude-and-longitude",
+    "recordid": "f4424087fedc6345958ab5f35d938d49dc66b905",
+    "fields": {
+      "city": "Miami",
+      "zip": "33114",
+      "dst": 1,
+      "geopoint": [25.558428, -80.458168],
+      "longitude": -80.458168,
+      "state": "FL",
+      "latitude": 25.558428,
+      "timezone": -5
+    },
+    "geometry": { "type": "Point", "coordinates": [-80.458168, 25.558428] },
+    "record_timestamp": "2018-02-09T11:33:38.603-05:00"
+  },
+  {
+    "datasetid": "us-zip-code-latitude-and-longitude",
+    "recordid": "ba4945f1fac738b753b596730aad0d81f1af0744",
+    "fields": {
+      "city": "Miami",
+      "zip": "33130",
+      "dst": 1,
+      "geopoint": [25.768277, -80.20339],
+      "longitude": -80.20339,
+      "state": "FL",
+      "latitude": 25.768277,
+      "timezone": -5
+    },
+    "geometry": { "type": "Point", "coordinates": [-80.20339, 25.768277] },
+    "record_timestamp": "2018-02-09T11:33:38.603-05:00"
+  },
+  {
+    "datasetid": "us-zip-code-latitude-and-longitude",
+    "recordid": "934ccc315a2ae7cd0abd0c501b88264479cd0155",
+    "fields": {
+      "city": "Miami",
+      "zip": "33163",
+      "dst": 1,
+      "geopoint": [25.94497, -80.21452],
+      "longitude": -80.21452,
+      "state": "FL",
+      "latitude": 25.94497,
+      "timezone": -5
+    },
+    "geometry": { "type": "Point", "coordinates": [-80.21452, 25.94497] },
+    "record_timestamp": "2018-02-09T11:33:38.603-05:00"
+  },
+  {
+    "datasetid": "us-zip-code-latitude-and-longitude",
+    "recordid": "e1b8ef9dcab85c1a3341d7d0261452f432b1767a",
+    "fields": {
+      "city": "Miami",
+      "zip": "33180",
+      "dst": 1,
+      "geopoint": [25.962069, -80.14465],
+      "longitude": -80.14465,
+      "state": "FL",
+      "latitude": 25.962069,
+      "timezone": -5
+    },
+    "geometry": { "type": "Point", "coordinates": [-80.14465, 25.962069] },
+    "record_timestamp": "2018-02-09T11:33:38.603-05:00"
+  },
+  {
+    "datasetid": "us-zip-code-latitude-and-longitude",
+    "recordid": "88baf0ca9ec57611b66d0ca2aee7a67b5acc8bc2",
+    "fields": {
+      "city": "Miami",
+      "zip": "33156",
+      "dst": 1,
+      "geopoint": [25.66558, -80.30688],
+      "longitude": -80.30688,
+      "state": "FL",
+      "latitude": 25.66558,
+      "timezone": -5
+    },
+    "geometry": { "type": "Point", "coordinates": [-80.30688, 25.66558] },
+    "record_timestamp": "2018-02-09T11:33:38.603-05:00"
+  },
+  {
+    "datasetid": "us-zip-code-latitude-and-longitude",
+    "recordid": "eb6c142f04e903b0a5488c31293c5e23254da161",
+    "fields": {
+      "city": "Miami",
+      "zip": "33185",
+      "dst": 1,
+      "geopoint": [25.723173, -80.43995],
+      "longitude": -80.43995,
+      "state": "FL",
+      "latitude": 25.723173,
+      "timezone": -5
+    },
+    "geometry": { "type": "Point", "coordinates": [-80.43995, 25.723173] },
+    "record_timestamp": "2018-02-09T11:33:38.603-05:00"
+  },
+  {
+    "datasetid": "us-zip-code-latitude-and-longitude",
+    "recordid": "3944132978cb9c5b0875a5c1709ad744ac9dd596",
+    "fields": {
+      "city": "Miami",
+      "zip": "33256",
+      "dst": 1,
+      "geopoint": [25.558428, -80.458168],
+      "longitude": -80.458168,
+      "state": "FL",
+      "latitude": 25.558428,
+      "timezone": -5
+    },
+    "geometry": { "type": "Point", "coordinates": [-80.458168, 25.558428] },
+    "record_timestamp": "2018-02-09T11:33:38.603-05:00"
+  },
+  {
+    "datasetid": "us-zip-code-latitude-and-longitude",
+    "recordid": "89a2c2b0952b4e3fb031bf750f021f60dae7b503",
+    "fields": {
+      "city": "Miami Beach",
+      "zip": "33140",
+      "dst": 1,
+      "geopoint": [25.814225, -80.13085],
+      "longitude": -80.13085,
+      "state": "FL",
+      "latitude": 25.814225,
+      "timezone": -5
+    },
+    "geometry": { "type": "Point", "coordinates": [-80.13085, 25.814225] },
+    "record_timestamp": "2018-02-09T11:33:38.603-05:00"
+  },
+  {
+    "datasetid": "us-zip-code-latitude-and-longitude",
+    "recordid": "481ce75beccad0eabcb7a89d21fe240c2cf4951c",
+    "fields": {
+      "city": "Miami",
+      "zip": "33146",
+      "dst": 1,
+      "geopoint": [25.720728, -80.27255],
+      "longitude": -80.27255,
+      "state": "FL",
+      "latitude": 25.720728,
+      "timezone": -5
+    },
+    "geometry": { "type": "Point", "coordinates": [-80.27255, 25.720728] },
+    "record_timestamp": "2018-02-09T11:33:38.603-05:00"
+  },
+  {
+    "datasetid": "us-zip-code-latitude-and-longitude",
+    "recordid": "f2970e98f00dbfb1950377fc11030c9c95880dd7",
+    "fields": {
+      "city": "Miami",
+      "zip": "33124",
+      "dst": 1,
+      "geopoint": [25.558428, -80.458168],
+      "longitude": -80.458168,
+      "state": "FL",
+      "latitude": 25.558428,
+      "timezone": -5
+    },
+    "geometry": { "type": "Point", "coordinates": [-80.458168, 25.558428] },
+    "record_timestamp": "2018-02-09T11:33:38.603-05:00"
+  },
+  {
+    "datasetid": "us-zip-code-latitude-and-longitude",
+    "recordid": "44e9cb228afc42d21eb195eee71171f47cea6c28",
+    "fields": {
+      "city": "Miami",
+      "zip": "33188",
+      "dst": 1,
+      "geopoint": [25.558428, -80.458168],
+      "longitude": -80.458168,
+      "state": "FL",
+      "latitude": 25.558428,
+      "timezone": -5
+    },
+    "geometry": { "type": "Point", "coordinates": [-80.458168, 25.558428] },
+    "record_timestamp": "2018-02-09T11:33:38.603-05:00"
+  },
+  {
+    "datasetid": "us-zip-code-latitude-and-longitude",
+    "recordid": "47a591b6efc72a811ec456b2f71f01c39d67d544",
+    "fields": {
+      "city": "Miami",
+      "zip": "33175",
+      "dst": 1,
+      "geopoint": [25.733204, -80.41197],
+      "longitude": -80.41197,
+      "state": "FL",
+      "latitude": 25.733204,
+      "timezone": -5
+    },
+    "geometry": { "type": "Point", "coordinates": [-80.41197, 25.733204] },
+    "record_timestamp": "2018-02-09T11:33:38.603-05:00"
+  },
+  {
+    "datasetid": "us-zip-code-latitude-and-longitude",
+    "recordid": "328a2ada1231f20ae9c6979251518ab617c1f0e9",
+    "fields": {
+      "city": "Miami",
+      "zip": "33242",
+      "dst": 1,
+      "geopoint": [25.558428, -80.458168],
+      "longitude": -80.458168,
+      "state": "FL",
+      "latitude": 25.558428,
+      "timezone": -5
+    },
+    "geometry": { "type": "Point", "coordinates": [-80.458168, 25.558428] },
+    "record_timestamp": "2018-02-09T11:33:38.603-05:00"
+  },
+  {
+    "datasetid": "us-zip-code-latitude-and-longitude",
+    "recordid": "cd58718cd28d4bfff6d93f2feddbdb5fa50a11cb",
+    "fields": {
+      "city": "Miami",
+      "zip": "33152",
+      "dst": 1,
+      "geopoint": [25.795476, -80.312873],
+      "longitude": -80.312873,
+      "state": "FL",
+      "latitude": 25.795476,
+      "timezone": -5
+    },
+    "geometry": { "type": "Point", "coordinates": [-80.312873, 25.795476] },
+    "record_timestamp": "2018-02-09T11:33:38.603-05:00"
+  },
+  {
+    "datasetid": "us-zip-code-latitude-and-longitude",
+    "recordid": "5739f9e604ecf3e44d90af4acac3cad3eae56b26",
+    "fields": {
+      "city": "Miami",
+      "zip": "33179",
+      "dst": 1,
+      "geopoint": [25.95872, -80.17941],
+      "longitude": -80.17941,
+      "state": "FL",
+      "latitude": 25.95872,
+      "timezone": -5
+    },
+    "geometry": { "type": "Point", "coordinates": [-80.17941, 25.95872] },
+    "record_timestamp": "2018-02-09T11:33:38.603-05:00"
+  },
+  {
+    "datasetid": "us-zip-code-latitude-and-longitude",
+    "recordid": "0b93e024b5239a08f3aabe78994ad3fff3628dc8",
+    "fields": {
+      "city": "Miami",
+      "zip": "33196",
+      "dst": 1,
+      "geopoint": [25.650232, -80.45925],
+      "longitude": -80.45925,
+      "state": "FL",
+      "latitude": 25.650232,
+      "timezone": -5
+    },
+    "geometry": { "type": "Point", "coordinates": [-80.45925, 25.650232] },
+    "record_timestamp": "2018-02-09T11:33:38.603-05:00"
+  },
+  {
+    "datasetid": "us-zip-code-latitude-and-longitude",
+    "recordid": "614f494f579bc779da4fdf49d76f2663e5017625",
+    "fields": {
+      "city": "Miami",
+      "zip": "33166",
+      "dst": 1,
+      "geopoint": [25.824725, -80.30476],
+      "longitude": -80.30476,
+      "state": "FL",
+      "latitude": 25.824725,
+      "timezone": -5
+    },
+    "geometry": { "type": "Point", "coordinates": [-80.30476, 25.824725] },
+    "record_timestamp": "2018-02-09T11:33:38.603-05:00"
+  },
+  {
+    "datasetid": "us-zip-code-latitude-and-longitude",
+    "recordid": "51df14151f22f33a2c9d832fde9e0c9c6bf435a3",
+    "fields": {
+      "city": "Miami",
+      "zip": "33181",
+      "dst": 1,
+      "geopoint": [25.897372, -80.16048],
+      "longitude": -80.16048,
+      "state": "FL",
+      "latitude": 25.897372,
+      "timezone": -5
+    },
+    "geometry": { "type": "Point", "coordinates": [-80.16048, 25.897372] },
+    "record_timestamp": "2018-02-09T11:33:38.603-05:00"
+  },
+  {
+    "datasetid": "us-zip-code-latitude-and-longitude",
+    "recordid": "4e7a284566e631f2b298ca919cee9138dca85cda",
+    "fields": {
+      "city": "Miami",
+      "zip": "33269",
+      "dst": 1,
+      "geopoint": [25.558428, -80.458168],
+      "longitude": -80.458168,
+      "state": "FL",
+      "latitude": 25.558428,
+      "timezone": -5
+    },
+    "geometry": { "type": "Point", "coordinates": [-80.458168, 25.558428] },
+    "record_timestamp": "2018-02-09T11:33:38.603-05:00"
+  },
+  {
+    "datasetid": "us-zip-code-latitude-and-longitude",
+    "recordid": "52c3fb4ba7cea09debb2536e653ad772c9a803e8",
+    "fields": {
+      "city": "Miami",
+      "zip": "33247",
+      "dst": 1,
+      "geopoint": [25.558428, -80.458168],
+      "longitude": -80.458168,
+      "state": "FL",
+      "latitude": 25.558428,
+      "timezone": -5
+    },
+    "geometry": { "type": "Point", "coordinates": [-80.458168, 25.558428] },
+    "record_timestamp": "2018-02-09T11:33:38.603-05:00"
+  },
+  {
+    "datasetid": "us-zip-code-latitude-and-longitude",
+    "recordid": "12d6a3919abe71c5900482688d85354673426fc2",
+    "fields": {
+      "city": "Miami",
+      "zip": "33143",
+      "dst": 1,
+      "geopoint": [25.702929, -80.29642],
+      "longitude": -80.29642,
+      "state": "FL",
+      "latitude": 25.702929,
+      "timezone": -5
+    },
+    "geometry": { "type": "Point", "coordinates": [-80.29642, 25.702929] },
+    "record_timestamp": "2018-02-09T11:33:38.603-05:00"
+  },
+  {
+    "datasetid": "us-zip-code-latitude-and-longitude",
+    "recordid": "172a81927aab2bd3aa99758c8babb911d8dc400a",
+    "fields": {
+      "city": "Miami",
+      "zip": "33234",
+      "dst": 1,
+      "geopoint": [25.558428, -80.458168],
+      "longitude": -80.458168,
+      "state": "FL",
+      "latitude": 25.558428,
+      "timezone": -5
+    },
+    "geometry": { "type": "Point", "coordinates": [-80.458168, 25.558428] },
+    "record_timestamp": "2018-02-09T11:33:38.603-05:00"
+  },
+  {
+    "datasetid": "us-zip-code-latitude-and-longitude",
+    "recordid": "6e2b3f131fe7adce573eeed8ad7b6de84af1033b",
+    "fields": {
+      "city": "Miami",
+      "zip": "33107",
+      "dst": 1,
+      "geopoint": [25.558428, -80.458168],
+      "longitude": -80.458168,
+      "state": "FL",
+      "latitude": 25.558428,
+      "timezone": -5
+    },
+    "geometry": { "type": "Point", "coordinates": [-80.458168, 25.558428] },
+    "record_timestamp": "2018-02-09T11:33:38.603-05:00"
+  },
+  {
+    "datasetid": "us-zip-code-latitude-and-longitude",
+    "recordid": "168b411504f6393036cacccbccf88ab69ca261a8",
+    "fields": {
+      "city": "Miami",
+      "zip": "33142",
+      "dst": 1,
+      "geopoint": [25.812625, -80.2369],
+      "longitude": -80.2369,
+      "state": "FL",
+      "latitude": 25.812625,
+      "timezone": -5
+    },
+    "geometry": { "type": "Point", "coordinates": [-80.2369, 25.812625] },
+    "record_timestamp": "2018-02-09T11:33:38.603-05:00"
+  },
+  {
+    "datasetid": "us-zip-code-latitude-and-longitude",
+    "recordid": "53b6ee0207ee9718da3dcf8e2eb7e0b62e308c85",
+    "fields": {
+      "city": "Miami",
+      "zip": "33178",
+      "dst": 1,
+      "geopoint": [25.837696, -80.36947],
+      "longitude": -80.36947,
+      "state": "FL",
+      "latitude": 25.837696,
+      "timezone": -5
+    },
+    "geometry": { "type": "Point", "coordinates": [-80.36947, 25.837696] },
+    "record_timestamp": "2018-02-09T11:33:38.603-05:00"
+  },
+  {
+    "datasetid": "us-zip-code-latitude-and-longitude",
+    "recordid": "13d8f1800e03954bf365fed55fc300591697071d",
+    "fields": {
+      "city": "Miami",
+      "zip": "33169",
+      "dst": 1,
+      "geopoint": [25.94267, -80.21276],
+      "longitude": -80.21276,
+      "state": "FL",
+      "latitude": 25.94267,
+      "timezone": -5
+    },
+    "geometry": { "type": "Point", "coordinates": [-80.21276, 25.94267] },
+    "record_timestamp": "2018-02-09T11:33:38.603-05:00"
+  },
+  {
+    "datasetid": "us-zip-code-latitude-and-longitude",
+    "recordid": "bbc911e01623324140242938e3bbb80aa289074e",
+    "fields": {
+      "city": "Miami",
+      "zip": "33159",
+      "dst": 1,
+      "geopoint": [25.558428, -80.458168],
+      "longitude": -80.458168,
+      "state": "FL",
+      "latitude": 25.558428,
+      "timezone": -5
+    },
+    "geometry": { "type": "Point", "coordinates": [-80.458168, 25.558428] },
+    "record_timestamp": "2018-02-09T11:33:38.603-05:00"
+  },
+  {
+    "datasetid": "us-zip-code-latitude-and-longitude",
+    "recordid": "08cfe72bf6c4c45f439fe301143acfc8891c7d4c",
+    "fields": {
+      "city": "Miami",
+      "zip": "33147",
+      "dst": 1,
+      "geopoint": [25.850124, -80.23773],
+      "longitude": -80.23773,
+      "state": "FL",
+      "latitude": 25.850124,
+      "timezone": -5
+    },
+    "geometry": { "type": "Point", "coordinates": [-80.23773, 25.850124] },
+    "record_timestamp": "2018-02-09T11:33:38.603-05:00"
+  },
+  {
+    "datasetid": "us-zip-code-latitude-and-longitude",
+    "recordid": "9b560c2d706b65a4fa05e6e57d688f1dd870aa6b",
+    "fields": {
+      "city": "Miami",
+      "zip": "33266",
+      "dst": 1,
+      "geopoint": [25.558428, -80.458168],
+      "longitude": -80.458168,
+      "state": "FL",
+      "latitude": 25.558428,
+      "timezone": -5
+    },
+    "geometry": { "type": "Point", "coordinates": [-80.458168, 25.558428] },
+    "record_timestamp": "2018-02-09T11:33:38.603-05:00"
+  },
+  {
+    "datasetid": "us-zip-code-latitude-and-longitude",
+    "recordid": "187c7306ac0a8002dd7280f6543f0e63dc0b6474",
+    "fields": {
+      "city": "Miami",
+      "zip": "33299",
+      "dst": 1,
+      "geopoint": [25.558428, -80.458168],
+      "longitude": -80.458168,
+      "state": "FL",
+      "latitude": 25.558428,
+      "timezone": -5
+    },
+    "geometry": { "type": "Point", "coordinates": [-80.458168, 25.558428] },
+    "record_timestamp": "2018-02-09T11:33:38.603-05:00"
+  },
+  {
+    "datasetid": "us-zip-code-latitude-and-longitude",
+    "recordid": "395ab0dd36688c2b04a99fd0a0ecacf2c70f7692",
+    "fields": {
+      "city": "Miami",
+      "zip": "33187",
+      "dst": 1,
+      "geopoint": [25.596234, -80.4765],
+      "longitude": -80.4765,
+      "state": "FL",
+      "latitude": 25.596234,
+      "timezone": -5
+    },
+    "geometry": { "type": "Point", "coordinates": [-80.4765, 25.596234] },
+    "record_timestamp": "2018-02-09T11:33:38.603-05:00"
+  },
+  {
+    "datasetid": "us-zip-code-latitude-and-longitude",
+    "recordid": "78c03f81cfea1795f095f8afccaa918262ee910a",
+    "fields": {
+      "city": "Miami",
+      "zip": "33153",
+      "dst": 1,
+      "geopoint": [25.865523, -80.193619],
+      "longitude": -80.193619,
+      "state": "FL",
+      "latitude": 25.865523,
+      "timezone": -5
+    },
+    "geometry": { "type": "Point", "coordinates": [-80.193619, 25.865523] },
+    "record_timestamp": "2018-02-09T11:33:38.603-05:00"
+  },
+  {
+    "datasetid": "us-zip-code-latitude-and-longitude",
+    "recordid": "b80b0b779ab395958a9aaf04d7390d035a0a0955",
+    "fields": {
+      "city": "Miami",
+      "zip": "33158",
+      "dst": 1,
+      "geopoint": [25.637132, -80.31641],
+      "longitude": -80.31641,
+      "state": "FL",
+      "latitude": 25.637132,
+      "timezone": -5
+    },
+    "geometry": { "type": "Point", "coordinates": [-80.31641, 25.637132] },
+    "record_timestamp": "2018-02-09T11:33:38.603-05:00"
+  },
+  {
+    "datasetid": "us-zip-code-latitude-and-longitude",
+    "recordid": "eeb12e510d2e4f2de6eb313af9b46c3386d469df",
+    "fields": {
+      "city": "Miami Beach",
+      "zip": "33239",
+      "dst": 1,
+      "geopoint": [25.558428, -80.458168],
+      "longitude": -80.458168,
+      "state": "FL",
+      "latitude": 25.558428,
+      "timezone": -5
+    },
+    "geometry": { "type": "Point", "coordinates": [-80.458168, 25.558428] },
+    "record_timestamp": "2018-02-09T11:33:38.603-05:00"
+  },
+  {
+    "datasetid": "us-zip-code-latitude-and-longitude",
+    "recordid": "4bba029995432bef09337dcb6bffe2bc51a76631",
+    "fields": {
+      "city": "Miami",
+      "zip": "33157",
+      "dst": 1,
+      "geopoint": [25.606583, -80.34859],
+      "longitude": -80.34859,
+      "state": "FL",
+      "latitude": 25.606583,
+      "timezone": -5
+    },
+    "geometry": { "type": "Point", "coordinates": [-80.34859, 25.606583] },
+    "record_timestamp": "2018-02-09T11:33:38.603-05:00"
+  },
+  {
+    "datasetid": "us-zip-code-latitude-and-longitude",
+    "recordid": "230f41ca30e1e2132c2da828aa20aac87455610a",
+    "fields": {
+      "city": "Miami",
+      "zip": "33132",
+      "dst": 1,
+      "geopoint": [25.784326, -80.18753],
+      "longitude": -80.18753,
+      "state": "FL",
+      "latitude": 25.784326,
+      "timezone": -5
+    },
+    "geometry": { "type": "Point", "coordinates": [-80.18753, 25.784326] },
+    "record_timestamp": "2018-02-09T11:33:38.603-05:00"
+  },
+  {
+    "datasetid": "us-zip-code-latitude-and-longitude",
+    "recordid": "1dc2fa01383fb1bdccfa0addd6b5a7f8028949a0",
+    "fields": {
+      "city": "Miami",
+      "zip": "33110",
+      "dst": 1,
+      "geopoint": [25.846874, -80.20827],
+      "longitude": -80.20827,
+      "state": "FL",
+      "latitude": 25.846874,
+      "timezone": -5
+    },
+    "geometry": { "type": "Point", "coordinates": [-80.20827, 25.846874] },
+    "record_timestamp": "2018-02-09T11:33:38.603-05:00"
+  },
+  {
+    "datasetid": "us-zip-code-latitude-and-longitude",
+    "recordid": "bed3e4bd7a0178a9a92bdcc825f78326cfee9754",
+    "fields": {
+      "city": "Miami Beach",
+      "zip": "33109",
+      "dst": 1,
+      "geopoint": [25.759474, -80.13907],
+      "longitude": -80.13907,
+      "state": "FL",
+      "latitude": 25.759474,
+      "timezone": -5
+    },
+    "geometry": { "type": "Point", "coordinates": [-80.13907, 25.759474] },
+    "record_timestamp": "2018-02-09T11:33:38.603-05:00"
+  },
+  {
+    "datasetid": "us-zip-code-latitude-and-longitude",
+    "recordid": "e6607ee6b8d91e0a2ed99fee9b5d67f27bec5530",
+    "fields": {
+      "city": "Miami",
+      "zip": "33197",
+      "dst": 1,
+      "geopoint": [25.558428, -80.458168],
+      "longitude": -80.458168,
+      "state": "FL",
+      "latitude": 25.558428,
+      "timezone": -5
+    },
+    "geometry": { "type": "Point", "coordinates": [-80.458168, 25.558428] },
+    "record_timestamp": "2018-02-09T11:33:38.603-05:00"
+  },
+  {
+    "datasetid": "us-zip-code-latitude-and-longitude",
+    "recordid": "185e8d1cef7b43afac0706e8cf0dc16c34c30c3d",
+    "fields": {
+      "city": "Miami",
+      "zip": "33183",
+      "dst": 1,
+      "geopoint": [25.699968, -80.40811],
+      "longitude": -80.40811,
+      "state": "FL",
+      "latitude": 25.699968,
+      "timezone": -5
+    },
+    "geometry": { "type": "Point", "coordinates": [-80.40811, 25.699968] },
+    "record_timestamp": "2018-02-09T11:33:38.603-05:00"
+  },
+  {
+    "datasetid": "us-zip-code-latitude-and-longitude",
+    "recordid": "f48184047eb1e254cff306815dffd3e82e68a748",
+    "fields": {
+      "city": "Miami",
+      "zip": "33102",
+      "dst": 1,
+      "geopoint": [25.558428, -80.458168],
+      "longitude": -80.458168,
+      "state": "FL",
+      "latitude": 25.558428,
+      "timezone": -5
+    },
+    "geometry": { "type": "Point", "coordinates": [-80.458168, 25.558428] },
+    "record_timestamp": "2018-02-09T11:33:38.603-05:00"
+  },
+  {
+    "datasetid": "us-zip-code-latitude-and-longitude",
+    "recordid": "3e98cfd0252631f0d63ed8fc38e8067e1b2ad11e",
+    "fields": {
+      "city": "Miami",
+      "zip": "33283",
+      "dst": 1,
+      "geopoint": [25.558428, -80.458168],
+      "longitude": -80.458168,
+      "state": "FL",
+      "latitude": 25.558428,
+      "timezone": -5
+    },
+    "geometry": { "type": "Point", "coordinates": [-80.458168, 25.558428] },
+    "record_timestamp": "2018-02-09T11:33:38.603-05:00"
+  },
+  {
+    "datasetid": "us-zip-code-latitude-and-longitude",
+    "recordid": "77d9c8946ebcab86c3906516070c719307528ba4",
+    "fields": {
+      "city": "Miami",
+      "zip": "33161",
+      "dst": 1,
+      "geopoint": [25.893372, -80.18164],
+      "longitude": -80.18164,
+      "state": "FL",
+      "latitude": 25.893372,
+      "timezone": -5
+    },
+    "geometry": { "type": "Point", "coordinates": [-80.18164, 25.893372] },
+    "record_timestamp": "2018-02-09T11:33:38.603-05:00"
+  },
+  {
+    "datasetid": "us-zip-code-latitude-and-longitude",
+    "recordid": "8791270747ab1c07391e2cf1d8b83b856d738664",
+    "fields": {
+      "city": "Miami",
+      "zip": "33261",
+      "dst": 1,
+      "geopoint": [25.558428, -80.458168],
+      "longitude": -80.458168,
+      "state": "FL",
+      "latitude": 25.558428,
+      "timezone": -5
+    },
+    "geometry": { "type": "Point", "coordinates": [-80.458168, 25.558428] },
+    "record_timestamp": "2018-02-09T11:33:38.603-05:00"
+  },
+  {
+    "datasetid": "us-zip-code-latitude-and-longitude",
+    "recordid": "cb996a1da131a06a85028dd30680d70f1a31338d",
+    "fields": {
+      "city": "Miami",
+      "zip": "33238",
+      "dst": 1,
+      "geopoint": [25.558428, -80.458168],
+      "longitude": -80.458168,
+      "state": "FL",
+      "latitude": 25.558428,
+      "timezone": -5
+    },
+    "geometry": { "type": "Point", "coordinates": [-80.458168, 25.558428] },
+    "record_timestamp": "2018-02-09T11:33:38.603-05:00"
+  },
+  {
+    "datasetid": "us-zip-code-latitude-and-longitude",
+    "recordid": "44722c452ecf18cac340505429f35607c6534019",
+    "fields": {
+      "city": "Miami",
+      "zip": "33133",
+      "dst": 1,
+      "geopoint": [25.730678, -80.2441],
+      "longitude": -80.2441,
+      "state": "FL",
+      "latitude": 25.730678,
+      "timezone": -5
+    },
+    "geometry": { "type": "Point", "coordinates": [-80.2441, 25.730678] },
+    "record_timestamp": "2018-02-09T11:33:38.603-05:00"
+  },
+  {
+    "datasetid": "us-zip-code-latitude-and-longitude",
+    "recordid": "5b4b92416bab1fe65a6e4bbd82a2911e49b97803",
+    "fields": {
+      "city": "Miami",
+      "zip": "33255",
+      "dst": 1,
+      "geopoint": [25.558428, -80.458168],
+      "longitude": -80.458168,
+      "state": "FL",
+      "latitude": 25.558428,
+      "timezone": -5
+    },
+    "geometry": { "type": "Point", "coordinates": [-80.458168, 25.558428] },
+    "record_timestamp": "2018-02-09T11:33:38.603-05:00"
+  },
+  {
+    "datasetid": "us-zip-code-latitude-and-longitude",
+    "recordid": "1b1dfc745c3400edd6d1939b6160f16e3c17f9e0",
+    "fields": {
+      "city": "Miami",
+      "zip": "33280",
+      "dst": 1,
+      "geopoint": [25.558428, -80.458168],
+      "longitude": -80.458168,
+      "state": "FL",
+      "latitude": 25.558428,
+      "timezone": -5
+    },
+    "geometry": { "type": "Point", "coordinates": [-80.458168, 25.558428] },
+    "record_timestamp": "2018-02-09T11:33:38.603-05:00"
+  },
+  {
+    "datasetid": "us-zip-code-latitude-and-longitude",
+    "recordid": "0157ac94da7c58944a5b9cd5ab7a316bcc0e2152",
+    "fields": {
+      "city": "Miami",
+      "zip": "33165",
+      "dst": 1,
+      "geopoint": [25.734828, -80.3583],
+      "longitude": -80.3583,
+      "state": "FL",
+      "latitude": 25.734828,
+      "timezone": -5
+    },
+    "geometry": { "type": "Point", "coordinates": [-80.3583, 25.734828] },
+    "record_timestamp": "2018-02-09T11:33:38.603-05:00"
+  },
+  {
+    "datasetid": "us-zip-code-latitude-and-longitude",
+    "recordid": "a36d5a1924ad22479cb0ec4aee2995daf2a4c609",
+    "fields": {
+      "city": "Miami",
+      "zip": "33131",
+      "dst": 1,
+      "geopoint": [25.767368, -80.1893],
+      "longitude": -80.1893,
+      "state": "FL",
+      "latitude": 25.767368,
+      "timezone": -5
+    },
+    "geometry": { "type": "Point", "coordinates": [-80.1893, 25.767368] },
+    "record_timestamp": "2018-02-09T11:33:38.603-05:00"
+  },
+  {
+    "datasetid": "us-zip-code-latitude-and-longitude",
+    "recordid": "2f938ce4866ae0e2cd16b1db9aade0e9cf6369b2",
+    "fields": {
+      "city": "Miami",
+      "zip": "33257",
+      "dst": 1,
+      "geopoint": [25.558428, -80.458168],
+      "longitude": -80.458168,
+      "state": "FL",
+      "latitude": 25.558428,
+      "timezone": -5
+    },
+    "geometry": { "type": "Point", "coordinates": [-80.458168, 25.558428] },
+    "record_timestamp": "2018-02-09T11:33:38.603-05:00"
+  },
+  {
+    "datasetid": "us-zip-code-latitude-and-longitude",
+    "recordid": "cb16355cb2b18f00b610077b9f4c9b7be9fb2b5a",
+    "fields": {
+      "city": "Miami",
+      "zip": "33177",
+      "dst": 1,
+      "geopoint": [25.595983, -80.40234],
+      "longitude": -80.40234,
+      "state": "FL",
+      "latitude": 25.595983,
+      "timezone": -5
+    },
+    "geometry": { "type": "Point", "coordinates": [-80.40234, 25.595983] },
+    "record_timestamp": "2018-02-09T11:33:38.603-05:00"
+  },
+  {
+    "datasetid": "us-zip-code-latitude-and-longitude",
+    "recordid": "5280a1ea01fed69f9192c94a52b92fc9730fad1a",
+    "fields": {
+      "city": "Miami",
+      "zip": "33243",
+      "dst": 1,
+      "geopoint": [25.558428, -80.458168],
+      "longitude": -80.458168,
+      "state": "FL",
+      "latitude": 25.558428,
+      "timezone": -5
+    },
+    "geometry": { "type": "Point", "coordinates": [-80.458168, 25.558428] },
+    "record_timestamp": "2018-02-09T11:33:38.603-05:00"
+  },
+  {
+    "datasetid": "us-zip-code-latitude-and-longitude",
+    "recordid": "14a059bd80f0988c7db8497d6d3b73fb1da064bf",
+    "fields": {
+      "city": "Miami",
+      "zip": "33176",
+      "dst": 1,
+      "geopoint": [25.653431, -80.35999],
+      "longitude": -80.35999,
+      "state": "FL",
+      "latitude": 25.653431,
+      "timezone": -5
+    },
+    "geometry": { "type": "Point", "coordinates": [-80.35999, 25.653431] },
+    "record_timestamp": "2018-02-09T11:33:38.603-05:00"
+  },
+  {
+    "datasetid": "us-zip-code-latitude-and-longitude",
+    "recordid": "461bae3f8d28cd5b3e1266ad2854b87b8c36ad18",
+    "fields": {
+      "city": "Miami",
+      "zip": "33199",
+      "dst": 1,
+      "geopoint": [25.558428, -80.458168],
+      "longitude": -80.458168,
+      "state": "FL",
+      "latitude": 25.558428,
+      "timezone": -5
+    },
+    "geometry": { "type": "Point", "coordinates": [-80.458168, 25.558428] },
+    "record_timestamp": "2018-02-09T11:33:38.603-05:00"
+  },
+  {
+    "datasetid": "us-zip-code-latitude-and-longitude",
+    "recordid": "ce3cc692e68db8fc949bf1a6851454eed1237756",
+    "fields": {
+      "city": "Miami",
+      "zip": "33167",
+      "dst": 1,
+      "geopoint": [25.885739, -80.23264],
+      "longitude": -80.23264,
+      "state": "FL",
+      "latitude": 25.885739,
+      "timezone": -5
+    },
+    "geometry": { "type": "Point", "coordinates": [-80.23264, 25.885739] },
+    "record_timestamp": "2018-02-09T11:33:38.603-05:00"
+  },
+  {
+    "datasetid": "us-zip-code-latitude-and-longitude",
+    "recordid": "2a2fea4277c87c22aad500c72b44bf1759233da3",
+    "fields": {
+      "city": "Miami",
+      "zip": "33186",
+      "dst": 1,
+      "geopoint": [25.662292, -80.40947],
+      "longitude": -80.40947,
+      "state": "FL",
+      "latitude": 25.662292,
+      "timezone": -5
+    },
+    "geometry": { "type": "Point", "coordinates": [-80.40947, 25.662292] },
+    "record_timestamp": "2018-02-09T11:33:38.603-05:00"
+  },
+  {
+    "datasetid": "us-zip-code-latitude-and-longitude",
+    "recordid": "9b9ef97790c1389285340203cdaa1753f67a8d9c",
+    "fields": {
+      "city": "Miami",
+      "zip": "33154",
+      "dst": 1,
+      "geopoint": [25.881391, -80.1276],
+      "longitude": -80.1276,
+      "state": "FL",
+      "latitude": 25.881391,
+      "timezone": -5
+    },
+    "geometry": { "type": "Point", "coordinates": [-80.1276, 25.881391] },
+    "record_timestamp": "2018-02-09T11:33:38.603-05:00"
+  }
+]

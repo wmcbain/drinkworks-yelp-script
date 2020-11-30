@@ -1,0 +1,15 @@
+{
+  "name": "yelp-fusion",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Wyatt McBain",
+  "license": "MIT",
+  "type": "module",
+  "scripts": {
+    "start": "node --experimental-json-modules index.js"
+  },
+  "dependencies": {
+    "airtable": "^0.10.1",
+    "yelp-fusion": "^3.0.0"
+  }
+}
